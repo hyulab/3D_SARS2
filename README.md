@@ -358,7 +358,7 @@ This notebook first parses a provided list of candidate drugs that target one or
   - Must have smina installed locally (available through conda)
   - Must have openbabel installed locally (available through conda)
 
-## 15
+## 15_Calculate_Drug_Interfaces
 This notebook calculates the interface residues from all drug-protein docked outputs (summarized in Drug_Docking_Ires_Summary.txt). It then calculates the log odds enrichment for co-occurence of ligand binding site residues for the drug-protein pair with interface residues for the human-viral protein-protein interaction (summarized in Drug_Interface_Enrichment.txt).
 
 
