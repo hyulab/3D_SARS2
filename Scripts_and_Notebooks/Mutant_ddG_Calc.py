@@ -1,3 +1,25 @@
+"""
+NOTE: This script is derived from the D090_Ala_scan.py provided in the PyRosetta documentation / demos
+      with minor edits on my part to tweak the input parameters, interface definition, and output writting
+      to better fit it into my wrapper to run these jobs in bulk. The script is further modified in that it
+      introduces a provided set of mutations and calculates the ddG for the mutated structure after applying
+      all of those mutations rather than performing scanning mutagenesis with one mutation applied at a time.
+ 
+      Please refer to the original script (https://graylab.jhu.edu/pyrosetta/downloads/scripts/demo/D090_Ala_scan.py)
+      if you are interested in repurposing this protocol and credit the original authors appropriately...
+ 
+      Original authorship information is as follows...
+ 
+      Author: Evan H. Baugh
+          based on an original script by Sid Chaudhury
+          edited by Jianqing Xu
+          revised and motivated by Robert Schleif
+
+      Updated by Boon Uranukul, 6/9/12
+      Simplified special constant seed initialization ~ Labonte
+"""
+
+
 # the Interface object is required by this script
 from rosetta.protocols.scoring import Interface
 from rosetta import *
@@ -311,5 +333,5 @@ for trial in range(trials):
     summary.append([p1, p2, rank, trial, wt_complex, wt_score, mut_complex, mut_score, ddg, filename])
 summary = pd.DataFrame(summary, columns=["P1", "P2", "Docking_Rank", "ddG_Trial", "WT_Score", "WT_dG", "Mut_Score", "Mut_dG", "ddG", "pdbfile"])
 if(not os.path.exists("{0}Summary_Logs/".format(out_base))):
-   os.mkdir("{0}Summary_Logs/".format(out_base))
+    os.mkdir("{0}Summary_Logs/".format(out_base))
 summary.to_csv("{0}Summary_Logs/{1}_{2}_{3}".format(out_base, p1, p2, rank), sep="\t", index=None)

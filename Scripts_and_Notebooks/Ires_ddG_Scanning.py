@@ -1,3 +1,22 @@
+"""
+NOTE: This script is derived from the D090_Ala_scan.py provided in the PyRosetta documentation / demos
+      with minor edits on my part to tweak the input parameters, interface definition, and output writting
+      to better fit it into my wrapper to run these jobs in bulk.
+ 
+      Please refer to the original script (https://graylab.jhu.edu/pyrosetta/downloads/scripts/demo/D090_Ala_scan.py)
+      if you are interested in repurposing this protocol and credit the original authors appropriately...
+ 
+      Original authorship information is as follows...
+ 
+      Author: Evan H. Baugh
+          based on an original script by Sid Chaudhury
+          edited by Jianqing Xu
+          revised and motivated by Robert Schleif
+
+      Updated by Boon Uranukul, 6/9/12
+      Simplified special constant seed initialization ~ Labonte
+"""
+
 #!usr/bin/env python
 
 #from __future__ import print_function
@@ -660,7 +679,7 @@ parser.add_option('--trial_output', dest = 'trial_output',
     default = 'ddG_out',    # if a specific output name is desired
     help = 'the name preceding all output files')
 parser.add_option('--out_base', dest = 'out_base',
-    default = '../Data/ddG_Single_Mutants',
+    default = '../Output/ddG_Single_Mutants',
     help = 'base directory to store results in')
 (options,args) = parser.parse_args()
 

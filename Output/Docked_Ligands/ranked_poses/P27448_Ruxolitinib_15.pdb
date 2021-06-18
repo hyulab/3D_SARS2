@@ -1,0 +1,27 @@
+MODEL       15
+REMARK minimizedAffinity -6.38977718
+COMPND    RUXOLITINIB
+HETATM    1  N   UNL     1      17.311  20.524   5.405  1.00  0.00           N  
+HETATM    2  C   UNL     1      16.724  21.716   5.710  1.00  0.00           C  
+HETATM    3  C   UNL     1      15.964  21.505   6.843  1.00  0.00           C  
+HETATM    4  C   UNL     1      16.180  20.145   7.144  1.00  0.00           C  
+HETATM    5  N   UNL     1      17.016  19.551   6.288  1.00  0.00           N  
+HETATM    6  C   UNL     1      15.167  22.526   7.482  1.00  0.00           C  
+HETATM    7  C   UNL     1      13.998  22.228   8.190  1.00  0.00           C  
+HETATM    8  C   UNL     1      13.225  21.079   8.532  1.00  0.00           C  
+HETATM    9  C   UNL     1      12.167  21.496   9.311  1.00  0.00           C  
+HETATM   10  N   UNL     1      12.268  22.855   9.460  1.00  0.00           N  
+HETATM   11  C   UNL     1      13.365  23.312   8.784  1.00  0.00           C  
+HETATM   12  N   UNL     1      13.742  24.597   8.740  1.00  0.00           N  
+HETATM   13  C   UNL     1      14.873  24.757   8.030  1.00  0.00           C  
+HETATM   14  N   UNL     1      15.601  23.811   7.410  1.00  0.00           N  
+HETATM   15  C   UNL     1      18.192  20.197   4.282  1.00  0.00           C  
+HETATM   16  C   UNL     1      15.722  21.320   1.837  1.00  0.00           C  
+HETATM   17  C   UNL     1      15.259  19.879   1.935  1.00  0.00           C  
+HETATM   18  C   UNL     1      16.051  19.356   3.123  1.00  0.00           C  
+HETATM   19  C   UNL     1      17.451  19.964   2.941  1.00  0.00           C  
+HETATM   20  C   UNL     1      17.215  21.261   2.135  1.00  0.00           C  
+HETATM   21  C   UNL     1      19.351  21.205   4.207  1.00  0.00           C  
+HETATM   22  C   UNL     1      20.331  21.029   5.286  1.00  0.00           C  
+HETATM   23  N   UNL     1      21.102  20.869   6.137  1.00  0.00           N  
+ENDMDL

@@ -1,0 +1,1500 @@
+MODEL        1
+REMARK minimizedAffinity -4.99640608
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      70.535  31.514  -1.133  1.00  0.00           C  
+HETATM    2  O   UNL     1      68.217  31.630  -0.397  1.00  0.00           O  
+HETATM    3  C   UNL     1      69.213  30.960  -0.615  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.226  29.617  -0.447  1.00  0.00           O  
+HETATM    5  H   UNL     1      70.008  29.131  -0.622  1.00  0.00           H  
+HETATM    6  C   UNL     1      70.482  33.049  -0.988  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.825  33.808  -2.273  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.822  34.927  -2.016  1.00  0.00           C  
+HETATM    9  C   UNL     1      71.720  30.893  -0.372  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.836  31.890  -0.051  1.00  0.00           C  
+HETATM   11  C   UNL     1      73.911  31.853  -1.127  1.00  0.00           C  
+ENDMDL
+MODEL        2
+REMARK minimizedAffinity -4.70508385
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      61.999  28.932   6.086  1.00  0.00           C  
+HETATM    2  O   UNL     1      62.065  27.996   3.838  1.00  0.00           O  
+HETATM    3  C   UNL     1      61.410  28.425   4.774  1.00  0.00           C  
+HETATM    4  O   UNL     1      60.058  28.457   4.749  1.00  0.00           O  
+HETATM    5  H   UNL     1      59.583  28.793   5.483  1.00  0.00           H  
+HETATM    6  C   UNL     1      60.836  29.073   7.091  1.00  0.00           C  
+HETATM    7  C   UNL     1      60.868  30.371   7.902  1.00  0.00           C  
+HETATM    8  C   UNL     1      60.038  30.261   9.171  1.00  0.00           C  
+HETATM    9  C   UNL     1      63.099  27.981   6.590  1.00  0.00           C  
+HETATM   10  C   UNL     1      64.519  28.507   6.363  1.00  0.00           C  
+HETATM   11  C   UNL     1      65.091  27.953   5.066  1.00  0.00           C  
+ENDMDL
+MODEL        3
+REMARK minimizedAffinity -4.66124344
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.984  16.917  -8.390  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.761  18.935  -7.045  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.241  17.960  -7.563  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.910  17.728  -7.481  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.541  16.971  -7.890  1.00  0.00           H  
+HETATM    6  C   UNL     1      71.015  15.739  -8.625  1.00  0.00           C  
+HETATM    7  C   UNL     1      71.504  14.408  -8.047  1.00  0.00           C  
+HETATM    8  C   UNL     1      72.669  13.843  -8.845  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.493  17.530  -9.707  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.923  16.859 -10.959  1.00  0.00           C  
+HETATM   11  C   UNL     1      73.039  16.226 -11.778  1.00  0.00           C  
+ENDMDL
+MODEL        4
+REMARK minimizedAffinity -4.55645847
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.223  34.121  -2.221  1.00  0.00           C  
+HETATM    2  O   UNL     1      72.052  34.291  -4.505  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.150  34.471  -3.703  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.950  34.976  -4.073  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.277  35.102  -3.433  1.00  0.00           H  
+HETATM    6  C   UNL     1      71.769  32.682  -2.112  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.821  31.707  -1.409  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.527  30.932  -0.307  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.095  35.139  -1.465  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.531  34.665  -0.077  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.614  35.842   0.886  1.00  0.00           C  
+ENDMDL
+MODEL        5
+REMARK minimizedAffinity -4.49557114
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.755  32.268  -0.705  1.00  0.00           C  
+HETATM    2  O   UNL     1      74.061  31.884  -1.387  1.00  0.00           O  
+HETATM    3  C   UNL     1      73.269  32.244  -0.531  1.00  0.00           C  
+HETATM    4  O   UNL     1      73.675  32.706   0.674  1.00  0.00           O  
+HETATM    5  H   UNL     1      73.042  32.976   1.310  1.00  0.00           H  
+HETATM    6  C   UNL     1      71.463  32.693  -2.160  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.978  34.138  -2.300  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.132  34.647  -3.725  1.00  0.00           C  
+HETATM    9  C   UNL     1      71.147  30.896  -0.361  1.00  0.00           C  
+HETATM   10  C   UNL     1      69.872  30.573  -1.143  1.00  0.00           C  
+HETATM   11  C   UNL     1      68.654  30.652  -0.234  1.00  0.00           C  
+ENDMDL
+MODEL        6
+REMARK minimizedAffinity -4.38881016
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.451  17.372  -9.370  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.444  19.041 -10.831  1.00  0.00           O  
+HETATM    3  C   UNL     1      72.384  18.306 -10.573  1.00  0.00           C  
+HETATM    4  O   UNL     1      73.502  18.278 -11.334  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.207  17.702 -11.111  1.00  0.00           H  
+HETATM    6  C   UNL     1      71.874  18.136  -8.160  1.00  0.00           C  
+HETATM    7  C   UNL     1      72.844  18.259  -6.982  1.00  0.00           C  
+HETATM    8  C   UNL     1      72.109  18.471  -5.668  1.00  0.00           C  
+HETATM    9  C   UNL     1      71.693  16.064  -9.656  1.00  0.00           C  
+HETATM   10  C   UNL     1      70.918  15.526  -8.450  1.00  0.00           C  
+HETATM   11  C   UNL     1      71.554  14.240  -7.939  1.00  0.00           C  
+ENDMDL
+MODEL        7
+REMARK minimizedAffinity -4.38207245
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      68.518  23.567  20.468  1.00  0.00           C  
+HETATM    2  O   UNL     1      69.472  23.279  18.246  1.00  0.00           O  
+HETATM    3  C   UNL     1      69.240  24.005  19.199  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.578  25.315  19.203  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.386  25.847  19.950  1.00  0.00           H  
+HETATM    6  C   UNL     1      68.810  24.624  21.554  1.00  0.00           C  
+HETATM    7  C   UNL     1      68.001  24.433  22.841  1.00  0.00           C  
+HETATM    8  C   UNL     1      68.537  23.280  23.676  1.00  0.00           C  
+HETATM    9  C   UNL     1      67.012  23.397  20.204  1.00  0.00           C  
+HETATM   10  C   UNL     1      66.478  22.006  20.558  1.00  0.00           C  
+HETATM   11  C   UNL     1      67.629  21.038  20.794  1.00  0.00           C  
+ENDMDL
+MODEL        8
+REMARK minimizedAffinity -4.30508852
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.766  32.537  -0.141  1.00  0.00           C  
+HETATM    2  O   UNL     1      74.384  32.211  -1.932  1.00  0.00           O  
+HETATM    3  C   UNL     1      74.158  32.434  -0.754  1.00  0.00           C  
+HETATM    4  O   UNL     1      75.152  32.654   0.138  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.947  32.823   1.036  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.030  33.688  -0.857  1.00  0.00           C  
+HETATM    7  C   UNL     1      72.654  35.067  -0.623  1.00  0.00           C  
+HETATM    8  C   UNL     1      72.629  35.453   0.848  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.020  31.197  -0.261  1.00  0.00           C  
+HETATM   10  C   UNL     1      70.727  31.284  -1.076  1.00  0.00           C  
+HETATM   11  C   UNL     1      69.652  30.396  -0.465  1.00  0.00           C  
+ENDMDL
+MODEL        9
+REMARK minimizedAffinity -4.2750473
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      68.389  22.861  20.009  1.00  0.00           C  
+HETATM    2  O   UNL     1      69.352  24.969  19.261  1.00  0.00           O  
+HETATM    3  C   UNL     1      69.199  23.770  19.092  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.782  23.111  18.064  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.645  22.189  17.961  1.00  0.00           H  
+HETATM    6  C   UNL     1      69.004  22.963  21.421  1.00  0.00           C  
+HETATM    7  C   UNL     1      69.494  21.626  21.984  1.00  0.00           C  
+HETATM    8  C   UNL     1      68.916  21.352  23.364  1.00  0.00           C  
+HETATM    9  C   UNL     1      66.901  23.252  19.986  1.00  0.00           C  
+HETATM   10  C   UNL     1      66.117  22.762  21.206  1.00  0.00           C  
+HETATM   11  C   UNL     1      65.787  21.283  21.068  1.00  0.00           C  
+ENDMDL
+MODEL       10
+REMARK minimizedAffinity -4.26377392
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      55.525  47.632  -3.165  1.00  0.00           C  
+HETATM    2  O   UNL     1      55.155  48.080  -0.800  1.00  0.00           O  
+HETATM    3  C   UNL     1      55.918  48.045  -1.752  1.00  0.00           C  
+HETATM    4  O   UNL     1      57.233  48.342  -1.628  1.00  0.00           O  
+HETATM    5  H   UNL     1      57.794  48.307  -2.378  1.00  0.00           H  
+HETATM    6  C   UNL     1      56.445  46.463  -3.578  1.00  0.00           C  
+HETATM    7  C   UNL     1      56.770  46.426  -5.073  1.00  0.00           C  
+HETATM    8  C   UNL     1      57.558  45.179  -5.446  1.00  0.00           C  
+HETATM    9  C   UNL     1      54.034  47.256  -3.226  1.00  0.00           C  
+HETATM   10  C   UNL     1      53.267  47.962  -4.346  1.00  0.00           C  
+HETATM   11  C   UNL     1      54.001  49.222  -4.784  1.00  0.00           C  
+ENDMDL
+MODEL       11
+REMARK minimizedAffinity -4.26162529
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.141  17.196  -7.037  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.375  18.653  -8.833  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.116  17.985  -7.845  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.852  17.847  -7.383  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.685  17.327  -6.622  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.597  16.006  -7.907  1.00  0.00           C  
+HETATM    7  C   UNL     1      71.468  15.044  -8.287  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.667  13.670  -7.664  1.00  0.00           C  
+HETATM    9  C   UNL     1      73.312  18.100  -6.617  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.968  19.067  -5.481  1.00  0.00           C  
+HETATM   11  C   UNL     1      74.219  19.780  -4.990  1.00  0.00           C  
+ENDMDL
+MODEL       12
+REMARK minimizedAffinity -4.25972176
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      58.118   9.239   6.742  1.00  0.00           C  
+HETATM    2  O   UNL     1      56.326   9.323   8.389  1.00  0.00           O  
+HETATM    3  C   UNL     1      57.229   8.699   7.857  1.00  0.00           C  
+HETATM    4  O   UNL     1      57.509   7.418   8.189  1.00  0.00           O  
+HETATM    5  H   UNL     1      58.210   6.965   7.762  1.00  0.00           H  
+HETATM    6  C   UNL     1      57.832   8.404   5.477  1.00  0.00           C  
+HETATM    7  C   UNL     1      59.028   7.581   4.991  1.00  0.00           C  
+HETATM    8  C   UNL     1      58.611   6.533   3.970  1.00  0.00           C  
+HETATM    9  C   UNL     1      57.864  10.741   6.525  1.00  0.00           C  
+HETATM   10  C   UNL     1      58.939  11.643   7.137  1.00  0.00           C  
+HETATM   11  C   UNL     1      58.486  12.169   8.492  1.00  0.00           C  
+ENDMDL
+MODEL       13
+REMARK minimizedAffinity -4.23673582
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      40.879  34.955  -6.698  1.00  0.00           C  
+HETATM    2  O   UNL     1      38.936  33.763  -5.840  1.00  0.00           O  
+HETATM    3  C   UNL     1      40.130  34.007  -5.769  1.00  0.00           C  
+HETATM    4  O   UNL     1      40.931  33.410  -4.856  1.00  0.00           O  
+HETATM    5  H   UNL     1      41.844  33.619  -4.826  1.00  0.00           H  
+HETATM    6  C   UNL     1      41.275  36.195  -5.869  1.00  0.00           C  
+HETATM    7  C   UNL     1      41.005  37.527  -6.575  1.00  0.00           C  
+HETATM    8  C   UNL     1      41.153  38.706  -5.626  1.00  0.00           C  
+HETATM    9  C   UNL     1      42.096  34.253  -7.324  1.00  0.00           C  
+HETATM   10  C   UNL     1      41.727  33.200  -8.371  1.00  0.00           C  
+HETATM   11  C   UNL     1      42.006  31.800  -7.841  1.00  0.00           C  
+ENDMDL
+MODEL       14
+REMARK minimizedAffinity -4.23282957
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.055  33.146  -1.379  1.00  0.00           C  
+HETATM    2  O   UNL     1      73.561  33.468  -3.266  1.00  0.00           O  
+HETATM    3  C   UNL     1      72.423  33.332  -2.846  1.00  0.00           C  
+HETATM    4  O   UNL     1      71.353  33.295  -3.674  1.00  0.00           O  
+HETATM    5  H   UNL     1      70.491  33.190  -3.321  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.043  34.543  -0.725  1.00  0.00           C  
+HETATM    7  C   UNL     1      73.007  34.686   0.456  1.00  0.00           C  
+HETATM    8  C   UNL     1      72.660  35.886   1.324  1.00  0.00           C  
+HETATM    9  C   UNL     1      70.703  32.423  -1.246  1.00  0.00           C  
+HETATM   10  C   UNL     1      70.791  31.084  -0.509  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.224  30.805  -0.079  1.00  0.00           C  
+ENDMDL
+MODEL       15
+REMARK minimizedAffinity -4.22026062
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      57.418  10.251   7.549  1.00  0.00           C  
+HETATM    2  O   UNL     1      58.570  12.194   8.458  1.00  0.00           O  
+HETATM    3  C   UNL     1      58.433  11.387   7.553  1.00  0.00           C  
+HETATM    4  O   UNL     1      59.221  11.404   6.452  1.00  0.00           O  
+HETATM    5  H   UNL     1      59.091  10.771   5.774  1.00  0.00           H  
+HETATM    6  C   UNL     1      57.499   9.563   6.170  1.00  0.00           C  
+HETATM    7  C   UNL     1      58.019   8.124   6.222  1.00  0.00           C  
+HETATM    8  C   UNL     1      58.953   7.821   5.061  1.00  0.00           C  
+HETATM    9  C   UNL     1      57.689   9.276   8.708  1.00  0.00           C  
+HETATM   10  C   UNL     1      56.920   9.612   9.988  1.00  0.00           C  
+HETATM   11  C   UNL     1      55.557  10.202   9.651  1.00  0.00           C  
+ENDMDL
+MODEL       16
+REMARK minimizedAffinity -4.2171526
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      77.799  13.947  17.309  1.00  0.00           C  
+HETATM    2  O   UNL     1      77.180  14.572  19.580  1.00  0.00           O  
+HETATM    3  C   UNL     1      76.929  14.585  18.386  1.00  0.00           C  
+HETATM    4  O   UNL     1      75.842  15.219  17.887  1.00  0.00           O  
+HETATM    5  H   UNL     1      75.677  15.210  16.965  1.00  0.00           H  
+HETATM    6  C   UNL     1      76.973  13.916  16.006  1.00  0.00           C  
+HETATM    7  C   UNL     1      77.744  14.389  14.770  1.00  0.00           C  
+HETATM    8  C   UNL     1      78.157  13.223  13.885  1.00  0.00           C  
+HETATM    9  C   UNL     1      79.120  14.719  17.150  1.00  0.00           C  
+HETATM   10  C   UNL     1      80.358  13.910  17.546  1.00  0.00           C  
+HETATM   11  C   UNL     1      81.019  13.311  16.312  1.00  0.00           C  
+ENDMDL
+MODEL       17
+REMARK minimizedAffinity -4.16092348
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.110  15.727  -9.012  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.478  17.006 -10.986  1.00  0.00           O  
+HETATM    3  C   UNL     1      72.139  16.109 -10.488  1.00  0.00           C  
+HETATM    4  O   UNL     1      73.013  15.373 -11.213  1.00  0.00           O  
+HETATM    5  H   UNL     1      73.506  14.691 -10.801  1.00  0.00           H  
+HETATM    6  C   UNL     1      70.745  16.173  -8.446  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.820  17.406  -7.541  1.00  0.00           C  
+HETATM    8  C   UNL     1      72.164  17.505  -6.837  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.354  14.218  -8.837  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.642  13.616  -7.623  1.00  0.00           C  
+HETATM   11  C   UNL     1      71.883  12.114  -7.555  1.00  0.00           C  
+ENDMDL
+MODEL       18
+REMARK minimizedAffinity -4.15452814
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      55.972  46.767  -3.996  1.00  0.00           C  
+HETATM    2  O   UNL     1      57.971  47.564  -2.855  1.00  0.00           O  
+HETATM    3  C   UNL     1      56.943  46.907  -2.829  1.00  0.00           C  
+HETATM    4  O   UNL     1      56.537  46.254  -1.715  1.00  0.00           O  
+HETATM    5  H   UNL     1      55.742  45.758  -1.727  1.00  0.00           H  
+HETATM    6  C   UNL     1      55.036  47.993  -3.968  1.00  0.00           C  
+HETATM    7  C   UNL     1      53.547  47.638  -3.962  1.00  0.00           C  
+HETATM    8  C   UNL     1      52.792  48.363  -5.066  1.00  0.00           C  
+HETATM    9  C   UNL     1      56.737  46.642  -5.325  1.00  0.00           C  
+HETATM   10  C   UNL     1      57.480  45.313  -5.486  1.00  0.00           C  
+HETATM   11  C   UNL     1      58.924  45.557  -5.899  1.00  0.00           C  
+ENDMDL
+MODEL       19
+REMARK minimizedAffinity -4.15166903
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      54.082  47.759  -4.556  1.00  0.00           C  
+HETATM    2  O   UNL     1      54.494  47.482  -2.171  1.00  0.00           O  
+HETATM    3  C   UNL     1      53.751  47.336  -3.129  1.00  0.00           C  
+HETATM    4  O   UNL     1      52.513  46.805  -3.002  1.00  0.00           O  
+HETATM    5  H   UNL     1      51.966  46.707  -3.757  1.00  0.00           H  
+HETATM    6  C   UNL     1      53.255  49.025  -4.866  1.00  0.00           C  
+HETATM    7  C   UNL     1      52.048  48.772  -5.774  1.00  0.00           C  
+HETATM    8  C   UNL     1      50.740  49.114  -5.078  1.00  0.00           C  
+HETATM    9  C   UNL     1      55.594  47.991  -4.716  1.00  0.00           C  
+HETATM   10  C   UNL     1      56.312  46.871  -5.473  1.00  0.00           C  
+HETATM   11  C   UNL     1      56.986  45.916  -4.497  1.00  0.00           C  
+ENDMDL
+MODEL       20
+REMARK minimizedAffinity -4.11854982
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      62.844  28.539   4.830  1.00  0.00           C  
+HETATM    2  O   UNL     1      60.472  28.565   4.279  1.00  0.00           O  
+HETATM    3  C   UNL     1      61.586  28.105   4.087  1.00  0.00           C  
+HETATM    4  O   UNL     1      61.820  27.165   3.143  1.00  0.00           O  
+HETATM    5  H   UNL     1      62.687  26.831   3.019  1.00  0.00           H  
+HETATM    6  C   UNL     1      62.600  28.297   6.334  1.00  0.00           C  
+HETATM    7  C   UNL     1      62.182  29.551   7.106  1.00  0.00           C  
+HETATM    8  C   UNL     1      60.757  29.442   7.627  1.00  0.00           C  
+HETATM    9  C   UNL     1      64.074  27.778   4.304  1.00  0.00           C  
+HETATM   10  C   UNL     1      65.083  28.668   3.574  1.00  0.00           C  
+HETATM   11  C   UNL     1      64.692  28.827   2.111  1.00  0.00           C  
+ENDMDL
+MODEL       21
+REMARK minimizedAffinity -4.09654665
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      56.962   9.893   9.736  1.00  0.00           C  
+HETATM    2  O   UNL     1      54.656   9.169   9.429  1.00  0.00           O  
+HETATM    3  C   UNL     1      55.453   9.932   9.951  1.00  0.00           C  
+HETATM    4  O   UNL     1      55.063  10.889  10.825  1.00  0.00           O  
+HETATM    5  H   UNL     1      55.699  11.461  11.209  1.00  0.00           H  
+HETATM    6  C   UNL     1      57.436   8.459  10.053  1.00  0.00           C  
+HETATM    7  C   UNL     1      57.425   8.115  11.545  1.00  0.00           C  
+HETATM    8  C   UNL     1      58.834   8.027  12.111  1.00  0.00           C  
+HETATM    9  C   UNL     1      57.317  10.326   8.303  1.00  0.00           C  
+HETATM   10  C   UNL     1      58.301  11.497   8.241  1.00  0.00           C  
+HETATM   11  C   UNL     1      59.081  11.469   6.934  1.00  0.00           C  
+ENDMDL
+MODEL       22
+REMARK minimizedAffinity -4.09233379
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      63.349  38.619  12.845  1.00  0.00           C  
+HETATM    2  O   UNL     1      64.678  36.743  12.040  1.00  0.00           O  
+HETATM    3  C   UNL     1      63.649  37.154  12.551  1.00  0.00           C  
+HETATM    4  O   UNL     1      62.664  36.317  12.952  1.00  0.00           O  
+HETATM    5  H   UNL     1      61.885  36.662  13.342  1.00  0.00           H  
+HETATM    6  C   UNL     1      63.191  38.761  14.373  1.00  0.00           C  
+HETATM    7  C   UNL     1      61.763  39.076  14.824  1.00  0.00           C  
+HETATM    8  C   UNL     1      61.378  40.514  14.512  1.00  0.00           C  
+HETATM    9  C   UNL     1      64.460  39.523  12.282  1.00  0.00           C  
+HETATM   10  C   UNL     1      63.965  40.902  11.838  1.00  0.00           C  
+HETATM   11  C   UNL     1      62.714  40.770  10.982  1.00  0.00           C  
+ENDMDL
+MODEL       23
+REMARK minimizedAffinity -4.08367157
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      78.013  12.853  15.268  1.00  0.00           C  
+HETATM    2  O   UNL     1      79.127  11.838  13.355  1.00  0.00           O  
+HETATM    3  C   UNL     1      78.876  12.835  14.011  1.00  0.00           C  
+HETATM    4  O   UNL     1      79.322  14.062  13.652  1.00  0.00           O  
+HETATM    5  H   UNL     1      79.112  14.809  14.177  1.00  0.00           H  
+HETATM    6  C   UNL     1      77.260  14.200  15.292  1.00  0.00           C  
+HETATM    7  C   UNL     1      77.550  15.053  16.530  1.00  0.00           C  
+HETATM    8  C   UNL     1      76.539  14.799  17.637  1.00  0.00           C  
+HETATM    9  C   UNL     1      77.059  11.646  15.289  1.00  0.00           C  
+HETATM   10  C   UNL     1      77.482  10.544  16.262  1.00  0.00           C  
+HETATM   11  C   UNL     1      78.479  11.084  17.278  1.00  0.00           C  
+ENDMDL
+MODEL       24
+REMARK minimizedAffinity -4.0773344
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.722  33.589  -3.024  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.555  36.010  -2.825  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.103  34.962  -3.257  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.999  34.925  -4.038  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.676  34.104  -4.354  1.00  0.00           H  
+HETATM    6  C   UNL     1      73.131  33.604  -3.653  1.00  0.00           C  
+HETATM    7  C   UNL     1      73.134  33.830  -5.168  1.00  0.00           C  
+HETATM    8  C   UNL     1      74.548  33.892  -5.724  1.00  0.00           C  
+HETATM    9  C   UNL     1      71.753  33.254  -1.523  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.553  31.993  -1.189  1.00  0.00           C  
+HETATM   11  C   UNL     1      71.705  31.024  -0.377  1.00  0.00           C  
+ENDMDL
+MODEL       25
+REMARK minimizedAffinity -4.07126999
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      40.529  33.659  -5.793  1.00  0.00           C  
+HETATM    2  O   UNL     1      41.778  35.675  -6.346  1.00  0.00           O  
+HETATM    3  C   UNL     1      41.547  34.770  -5.561  1.00  0.00           C  
+HETATM    4  O   UNL     1      42.163  34.687  -4.359  1.00  0.00           O  
+HETATM    5  H   UNL     1      41.964  33.979  -3.778  1.00  0.00           H  
+HETATM    6  C   UNL     1      39.522  34.168  -6.846  1.00  0.00           C  
+HETATM    7  C   UNL     1      38.107  33.609  -6.675  1.00  0.00           C  
+HETATM    8  C   UNL     1      37.876  32.386  -7.550  1.00  0.00           C  
+HETATM    9  C   UNL     1      41.231  32.362  -6.229  1.00  0.00           C  
+HETATM   10  C   UNL     1      41.841  32.433  -7.631  1.00  0.00           C  
+HETATM   11  C   UNL     1      41.579  31.141  -8.393  1.00  0.00           C  
+ENDMDL
+MODEL       26
+REMARK minimizedAffinity -4.01647282
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      47.061  15.329  11.700  1.00  0.00           C  
+HETATM    2  O   UNL     1      45.653  13.937  10.281  1.00  0.00           O  
+HETATM    3  C   UNL     1      46.636  14.649  10.403  1.00  0.00           C  
+HETATM    4  O   UNL     1      47.445  14.941   9.358  1.00  0.00           O  
+HETATM    5  H   UNL     1      48.193  15.491   9.484  1.00  0.00           H  
+HETATM    6  C   UNL     1      48.076  14.399  12.398  1.00  0.00           C  
+HETATM    7  C   UNL     1      49.534  14.835  12.233  1.00  0.00           C  
+HETATM    8  C   UNL     1      50.325  13.845  11.393  1.00  0.00           C  
+HETATM    9  C   UNL     1      47.641  16.725  11.416  1.00  0.00           C  
+HETATM   10  C   UNL     1      47.193  17.793  12.416  1.00  0.00           C  
+HETATM   11  C   UNL     1      48.397  18.409  13.114  1.00  0.00           C  
+ENDMDL
+MODEL       27
+REMARK minimizedAffinity -4.0106535
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      62.749  38.922  14.562  1.00  0.00           C  
+HETATM    2  O   UNL     1      60.938  40.550  14.568  1.00  0.00           O  
+HETATM    3  C   UNL     1      61.339  39.430  14.838  1.00  0.00           C  
+HETATM    4  O   UNL     1      60.532  38.493  15.390  1.00  0.00           O  
+HETATM    5  H   UNL     1      60.870  37.641  15.586  1.00  0.00           H  
+HETATM    6  C   UNL     1      63.210  39.542  13.226  1.00  0.00           C  
+HETATM    7  C   UNL     1      63.966  38.569  12.317  1.00  0.00           C  
+HETATM    8  C   UNL     1      63.527  37.130  12.545  1.00  0.00           C  
+HETATM    9  C   UNL     1      63.690  39.273  15.728  1.00  0.00           C  
+HETATM   10  C   UNL     1      63.803  38.169  16.782  1.00  0.00           C  
+HETATM   11  C   UNL     1      63.402  36.825  16.191  1.00  0.00           C  
+ENDMDL
+MODEL       28
+REMARK minimizedAffinity -4.00150347
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      48.354  17.188  12.626  1.00  0.00           C  
+HETATM    2  O   UNL     1      50.121  17.972  14.107  1.00  0.00           O  
+HETATM    3  C   UNL     1      49.137  18.220  13.429  1.00  0.00           C  
+HETATM    4  O   UNL     1      48.658  19.478  13.294  1.00  0.00           O  
+HETATM    5  H   UNL     1      47.900  19.637  12.766  1.00  0.00           H  
+HETATM    6  C   UNL     1      48.664  15.802  13.227  1.00  0.00           C  
+HETATM    7  C   UNL     1      49.498  14.900  12.314  1.00  0.00           C  
+HETATM    8  C   UNL     1      48.783  14.611  11.003  1.00  0.00           C  
+HETATM    9  C   UNL     1      46.850  17.514  12.644  1.00  0.00           C  
+HETATM   10  C   UNL     1      46.132  17.178  11.334  1.00  0.00           C  
+HETATM   11  C   UNL     1      45.186  16.002  11.532  1.00  0.00           C  
+ENDMDL
+MODEL       29
+REMARK minimizedAffinity -3.99082041
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      47.485  16.853  11.224  1.00  0.00           C  
+HETATM    2  O   UNL     1      48.731  14.761  11.219  1.00  0.00           O  
+HETATM    3  C   UNL     1      47.911  15.492  10.687  1.00  0.00           C  
+HETATM    4  O   UNL     1      47.257  15.134   9.558  1.00  0.00           O  
+HETATM    5  H   UNL     1      46.633  15.718   9.173  1.00  0.00           H  
+HETATM    6  C   UNL     1      45.950  16.943  11.089  1.00  0.00           C  
+HETATM    7  C   UNL     1      45.186  16.334  12.268  1.00  0.00           C  
+HETATM    8  C   UNL     1      44.442  15.070  11.862  1.00  0.00           C  
+HETATM    9  C   UNL     1      47.959  17.037  12.676  1.00  0.00           C  
+HETATM   10  C   UNL     1      48.047  18.501  13.114  1.00  0.00           C  
+HETATM   11  C   UNL     1      47.294  18.712  14.420  1.00  0.00           C  
+ENDMDL
+MODEL       30
+REMARK minimizedAffinity -3.97555113
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.047  32.678  -1.667  1.00  0.00           C  
+HETATM    2  O   UNL     1      72.294  33.577  -3.556  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.289  33.589  -2.865  1.00  0.00           C  
+HETATM    4  O   UNL     1      70.247  34.412  -3.128  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.489  34.398  -2.578  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.208  32.901  -0.675  1.00  0.00           C  
+HETATM    7  C   UNL     1      73.178  31.720  -0.577  1.00  0.00           C  
+HETATM    8  C   UNL     1      72.536  30.519   0.101  1.00  0.00           C  
+HETATM    9  C   UNL     1      69.673  32.963  -1.037  1.00  0.00           C  
+HETATM   10  C   UNL     1      68.977  31.715  -0.488  1.00  0.00           C  
+HETATM   11  C   UNL     1      69.441  30.473  -1.236  1.00  0.00           C  
+ENDMDL
+MODEL       31
+REMARK minimizedAffinity -3.96483994
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      79.427  13.596  15.826  1.00  0.00           C  
+HETATM    2  O   UNL     1      81.675  13.144  15.005  1.00  0.00           O  
+HETATM    3  C   UNL     1      80.950  13.552  15.897  1.00  0.00           C  
+HETATM    4  O   UNL     1      81.445  14.054  17.052  1.00  0.00           O  
+HETATM    5  H   UNL     1      80.862  14.360  17.718  1.00  0.00           H  
+HETATM    6  C   UNL     1      78.951  14.688  16.806  1.00  0.00           C  
+HETATM    7  C   UNL     1      77.541  15.211  16.518  1.00  0.00           C  
+HETATM    8  C   UNL     1      76.566  14.839  17.625  1.00  0.00           C  
+HETATM    9  C   UNL     1      78.959  13.857  14.383  1.00  0.00           C  
+HETATM   10  C   UNL     1      78.144  12.708  13.784  1.00  0.00           C  
+HETATM   11  C   UNL     1      77.600  11.809  14.886  1.00  0.00           C  
+ENDMDL
+MODEL       32
+REMARK minimizedAffinity -3.95889544
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      73.615  32.167  -1.534  1.00  0.00           C  
+HETATM    2  O   UNL     1      76.014  31.767  -1.655  1.00  0.00           O  
+HETATM    3  C   UNL     1      75.052  32.176  -1.026  1.00  0.00           C  
+HETATM    4  O   UNL     1      75.180  32.727   0.203  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.422  33.032   0.662  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.689  32.091  -0.302  1.00  0.00           C  
+HETATM    7  C   UNL     1      72.019  30.728  -0.111  1.00  0.00           C  
+HETATM    8  C   UNL     1      70.516  30.805  -0.334  1.00  0.00           C  
+HETATM    9  C   UNL     1      73.338  33.409  -2.401  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.940  33.425  -3.024  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.019  33.787  -4.500  1.00  0.00           C  
+ENDMDL
+MODEL       33
+REMARK minimizedAffinity -3.95425725
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      45.858  15.678  11.607  1.00  0.00           C  
+HETATM    2  O   UNL     1      43.545  16.123  12.223  1.00  0.00           O  
+HETATM    3  C   UNL     1      44.358  15.414  11.653  1.00  0.00           C  
+HETATM    4  O   UNL     1      43.988  14.314  10.957  1.00  0.00           O  
+HETATM    5  H   UNL     1      44.636  13.789  10.531  1.00  0.00           H  
+HETATM    6  C   UNL     1      46.465  14.718  10.562  1.00  0.00           C  
+HETATM    7  C   UNL     1      47.994  14.752  10.499  1.00  0.00           C  
+HETATM    8  C   UNL     1      48.622  14.227  11.781  1.00  0.00           C  
+HETATM    9  C   UNL     1      46.139  17.155  11.279  1.00  0.00           C  
+HETATM   10  C   UNL     1      47.109  17.828  12.253  1.00  0.00           C  
+HETATM   11  C   UNL     1      46.877  17.324  13.671  1.00  0.00           C  
+ENDMDL
+MODEL       34
+REMARK minimizedAffinity -3.95379972
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      47.759  16.595  11.972  1.00  0.00           C  
+HETATM    2  O   UNL     1      45.885  17.559  10.750  1.00  0.00           O  
+HETATM    3  C   UNL     1      46.846  16.806  10.770  1.00  0.00           C  
+HETATM    4  O   UNL     1      47.223  16.097   9.681  1.00  0.00           O  
+HETATM    5  H   UNL     1      47.966  15.527   9.728  1.00  0.00           H  
+HETATM    6  C   UNL     1      47.526  17.773  12.942  1.00  0.00           C  
+HETATM    7  C   UNL     1      48.781  18.602  13.226  1.00  0.00           C  
+HETATM    8  C   UNL     1      49.806  17.815  14.028  1.00  0.00           C  
+HETATM    9  C   UNL     1      47.485  15.231  12.628  1.00  0.00           C  
+HETATM   10  C   UNL     1      48.746  14.393  12.855  1.00  0.00           C  
+HETATM   11  C   UNL     1      49.591  14.348  11.590  1.00  0.00           C  
+ENDMDL
+MODEL       35
+REMARK minimizedAffinity -3.9312942
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      60.750  45.075   5.982  1.00  0.00           C  
+HETATM    2  O   UNL     1      59.807  44.076   3.971  1.00  0.00           O  
+HETATM    3  C   UNL     1      59.718  44.889   4.877  1.00  0.00           C  
+HETATM    4  O   UNL     1      58.643  45.701   5.008  1.00  0.00           O  
+HETATM    5  H   UNL     1      58.604  46.316   5.715  1.00  0.00           H  
+HETATM    6  C   UNL     1      62.079  44.472   5.479  1.00  0.00           C  
+HETATM    7  C   UNL     1      62.685  43.428   6.421  1.00  0.00           C  
+HETATM    8  C   UNL     1      63.245  42.239   5.655  1.00  0.00           C  
+HETATM    9  C   UNL     1      60.883  46.561   6.357  1.00  0.00           C  
+HETATM   10  C   UNL     1      60.571  46.856   7.826  1.00  0.00           C  
+HETATM   11  C   UNL     1      59.392  47.811   7.939  1.00  0.00           C  
+ENDMDL
+MODEL       36
+REMARK minimizedAffinity -3.90754223
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      41.676  33.257  -6.719  1.00  0.00           C  
+HETATM    2  O   UNL     1      39.663  33.973  -5.551  1.00  0.00           O  
+HETATM    3  C   UNL     1      40.879  33.878  -5.577  1.00  0.00           C  
+HETATM    4  O   UNL     1      41.654  34.291  -4.548  1.00  0.00           O  
+HETATM    5  H   UNL     1      42.586  34.204  -4.598  1.00  0.00           H  
+HETATM    6  C   UNL     1      40.857  32.067  -7.261  1.00  0.00           C  
+HETATM    7  C   UNL     1      41.712  30.934  -7.836  1.00  0.00           C  
+HETATM    8  C   UNL     1      41.358  30.644  -9.287  1.00  0.00           C  
+HETATM    9  C   UNL     1      41.976  34.306  -7.804  1.00  0.00           C  
+HETATM   10  C   UNL     1      40.897  34.400  -8.885  1.00  0.00           C  
+HETATM   11  C   UNL     1      41.519  34.280 -10.270  1.00  0.00           C  
+ENDMDL
+MODEL       37
+REMARK minimizedAffinity -3.90670252
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.426  32.459  -2.045  1.00  0.00           C  
+HETATM    2  O   UNL     1      70.664  34.139  -2.115  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.445  33.416  -2.712  1.00  0.00           C  
+HETATM    4  O   UNL     1      71.542  33.424  -4.062  1.00  0.00           O  
+HETATM    5  H   UNL     1      72.152  32.857  -4.492  1.00  0.00           H  
+HETATM    6  C   UNL     1      73.846  33.016  -2.280  1.00  0.00           C  
+HETATM    7  C   UNL     1      74.825  32.726  -1.138  1.00  0.00           C  
+HETATM    8  C   UNL     1      75.769  31.584  -1.483  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.097  32.300  -0.550  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.708  30.873  -0.154  1.00  0.00           C  
+HETATM   11  C   UNL     1      70.221  30.644  -0.383  1.00  0.00           C  
+ENDMDL
+MODEL       38
+REMARK minimizedAffinity -3.90461159
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      69.111  24.460  21.116  1.00  0.00           C  
+HETATM    2  O   UNL     1      68.642  23.669  18.861  1.00  0.00           O  
+HETATM    3  C   UNL     1      69.189  24.477  19.594  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.904  25.518  19.107  1.00  0.00           O  
+HETATM    5  H   UNL     1      70.312  26.122  19.696  1.00  0.00           H  
+HETATM    6  C   UNL     1      69.604  25.834  21.619  1.00  0.00           C  
+HETATM    7  C   UNL     1      69.474  26.024  23.133  1.00  0.00           C  
+HETATM    8  C   UNL     1      70.604  26.876  23.691  1.00  0.00           C  
+HETATM    9  C   UNL     1      67.680  24.143  21.583  1.00  0.00           C  
+HETATM   10  C   UNL     1      67.537  22.765  22.234  1.00  0.00           C  
+HETATM   11  C   UNL     1      68.905  22.187  22.566  1.00  0.00           C  
+ENDMDL
+MODEL       39
+REMARK minimizedAffinity -3.88687754
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      62.915  38.274  13.990  1.00  0.00           C  
+HETATM    2  O   UNL     1      64.094  36.987  12.291  1.00  0.00           O  
+HETATM    3  C   UNL     1      63.183  37.066  13.100  1.00  0.00           C  
+HETATM    4  O   UNL     1      62.324  36.043  13.316  1.00  0.00           O  
+HETATM    5  H   UNL     1      61.635  36.134  13.944  1.00  0.00           H  
+HETATM    6  C   UNL     1      63.227  37.856  15.442  1.00  0.00           C  
+HETATM    7  C   UNL     1      63.711  39.006  16.330  1.00  0.00           C  
+HETATM    8  C   UNL     1      64.655  38.518  17.418  1.00  0.00           C  
+HETATM    9  C   UNL     1      63.752  39.481  13.533  1.00  0.00           C  
+HETATM   10  C   UNL     1      62.928  40.585  12.865  1.00  0.00           C  
+HETATM   11  C   UNL     1      62.939  40.416  11.352  1.00  0.00           C  
+ENDMDL
+MODEL       40
+REMARK minimizedAffinity -3.85249519
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      68.257  19.231 -22.961  1.00  0.00           C  
+HETATM    2  O   UNL     1      65.988  19.839 -22.318  1.00  0.00           O  
+HETATM    3  C   UNL     1      66.737  19.238 -23.071  1.00  0.00           C  
+HETATM    4  O   UNL     1      66.274  18.530 -24.128  1.00  0.00           O  
+HETATM    5  H   UNL     1      66.874  18.078 -24.688  1.00  0.00           H  
+HETATM    6  C   UNL     1      68.735  17.794 -23.256  1.00  0.00           C  
+HETATM    7  C   UNL     1      68.598  16.837 -22.068  1.00  0.00           C  
+HETATM    8  C   UNL     1      69.879  16.053 -21.828  1.00  0.00           C  
+HETATM    9  C   UNL     1      68.874  20.264 -23.921  1.00  0.00           C  
+HETATM   10  C   UNL     1      69.605  19.638 -25.111  1.00  0.00           C  
+HETATM   11  C   UNL     1      71.039  20.146 -25.183  1.00  0.00           C  
+ENDMDL
+MODEL       41
+REMARK minimizedAffinity -3.83674741
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      55.053  47.552  -4.324  1.00  0.00           C  
+HETATM    2  O   UNL     1      54.541  47.623  -1.944  1.00  0.00           O  
+HETATM    3  C   UNL     1      54.168  47.425  -3.090  1.00  0.00           C  
+HETATM    4  O   UNL     1      52.887  47.103  -3.382  1.00  0.00           O  
+HETATM    5  H   UNL     1      52.632  46.958  -4.272  1.00  0.00           H  
+HETATM    6  C   UNL     1      55.420  49.043  -4.479  1.00  0.00           C  
+HETATM    7  C   UNL     1      54.209  49.971  -4.605  1.00  0.00           C  
+HETATM    8  C   UNL     1      54.488  51.343  -4.009  1.00  0.00           C  
+HETATM    9  C   UNL     1      56.295  46.652  -4.197  1.00  0.00           C  
+HETATM   10  C   UNL     1      57.039  46.438  -5.518  1.00  0.00           C  
+HETATM   11  C   UNL     1      57.669  45.053  -5.557  1.00  0.00           C  
+ENDMDL
+MODEL       42
+REMARK minimizedAffinity -3.83297777
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.842  16.408  -9.806  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.607  18.088 -11.065  1.00  0.00           O  
+HETATM    3  C   UNL     1      72.253  17.053 -11.056  1.00  0.00           C  
+HETATM    4  O   UNL     1      72.549  16.382 -12.193  1.00  0.00           O  
+HETATM    5  H   UNL     1      73.048  15.590 -12.153  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.557  17.353  -8.620  1.00  0.00           C  
+HETATM    7  C   UNL     1      73.811  17.800  -7.865  1.00  0.00           C  
+HETATM    8  C   UNL     1      74.354  16.695  -6.973  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.254  15.003  -9.593  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.350  14.894  -8.362  1.00  0.00           C  
+HETATM   11  C   UNL     1      71.648  13.615  -7.593  1.00  0.00           C  
+ENDMDL
+MODEL       43
+REMARK minimizedAffinity -3.83037329
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      40.357  32.418  -6.565  1.00  0.00           C  
+HETATM    2  O   UNL     1      42.407  32.499  -7.878  1.00  0.00           O  
+HETATM    3  C   UNL     1      41.545  31.837  -7.323  1.00  0.00           C  
+HETATM    4  O   UNL     1      41.586  30.484  -7.295  1.00  0.00           O  
+HETATM    5  H   UNL     1      40.909  30.004  -6.860  1.00  0.00           H  
+HETATM    6  C   UNL     1      40.898  33.530  -5.641  1.00  0.00           C  
+HETATM    7  C   UNL     1      40.283  34.908  -5.899  1.00  0.00           C  
+HETATM    8  C   UNL     1      41.328  35.914  -6.356  1.00  0.00           C  
+HETATM    9  C   UNL     1      39.289  32.936  -7.544  1.00  0.00           C  
+HETATM   10  C   UNL     1      37.894  32.356  -7.297  1.00  0.00           C  
+HETATM   11  C   UNL     1      36.906  33.465  -6.966  1.00  0.00           C  
+ENDMDL
+MODEL       44
+REMARK minimizedAffinity -3.82673955
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      63.954   5.061 -18.763  1.00  0.00           C  
+HETATM    2  O   UNL     1      63.684   4.116 -16.534  1.00  0.00           O  
+HETATM    3  C   UNL     1      63.889   5.090 -17.240  1.00  0.00           C  
+HETATM    4  O   UNL     1      64.121   6.318 -16.720  1.00  0.00           O  
+HETATM    5  H   UNL     1      64.275   7.046 -17.288  1.00  0.00           H  
+HETATM    6  C   UNL     1      62.511   5.208 -19.290  1.00  0.00           C  
+HETATM    7  C   UNL     1      62.225   6.559 -19.951  1.00  0.00           C  
+HETATM    8  C   UNL     1      61.327   7.429 -19.086  1.00  0.00           C  
+HETATM    9  C   UNL     1      64.887   6.166 -19.287  1.00  0.00           C  
+HETATM   10  C   UNL     1      65.973   5.656 -20.237  1.00  0.00           C  
+HETATM   11  C   UNL     1      65.450   5.601 -21.666  1.00  0.00           C  
+ENDMDL
+MODEL       45
+REMARK minimizedAffinity -3.80217862
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      68.476  22.601  20.613  1.00  0.00           C  
+HETATM    2  O   UNL     1      69.144  23.715  18.553  1.00  0.00           O  
+HETATM    3  C   UNL     1      69.286  22.790  19.335  1.00  0.00           C  
+HETATM    4  O   UNL     1      70.230  21.837  19.156  1.00  0.00           O  
+HETATM    5  H   UNL     1      70.314  21.139  19.775  1.00  0.00           H  
+HETATM    6  C   UNL     1      69.402  21.936  21.653  1.00  0.00           C  
+HETATM    7  C   UNL     1      68.657  21.149  22.735  1.00  0.00           C  
+HETATM    8  C   UNL     1      69.079  21.579  24.132  1.00  0.00           C  
+HETATM    9  C   UNL     1      67.913  23.947  21.102  1.00  0.00           C  
+HETATM   10  C   UNL     1      68.929  24.795  21.872  1.00  0.00           C  
+HETATM   11  C   UNL     1      68.374  25.186  23.234  1.00  0.00           C  
+ENDMDL
+MODEL       46
+REMARK minimizedAffinity -3.79527879
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      68.229  22.636  20.742  1.00  0.00           C  
+HETATM    2  O   UNL     1      69.024  23.753  18.729  1.00  0.00           O  
+HETATM    3  C   UNL     1      69.102  22.815  19.505  1.00  0.00           C  
+HETATM    4  O   UNL     1      70.024  21.836  19.357  1.00  0.00           O  
+HETATM    5  H   UNL     1      70.059  21.128  19.970  1.00  0.00           H  
+HETATM    6  C   UNL     1      67.441  21.321  20.565  1.00  0.00           C  
+HETATM    7  C   UNL     1      65.921  21.508  20.523  1.00  0.00           C  
+HETATM    8  C   UNL     1      65.190  20.284  21.054  1.00  0.00           C  
+HETATM    9  C   UNL     1      69.088  22.638  22.018  1.00  0.00           C  
+HETATM   10  C   UNL     1      68.724  21.529  23.008  1.00  0.00           C  
+HETATM   11  C   UNL     1      69.934  20.652  23.295  1.00  0.00           C  
+ENDMDL
+MODEL       47
+REMARK minimizedAffinity -3.79273844
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.506  27.298 -19.726  1.00  0.00           C  
+HETATM    2  O   UNL     1      70.937  25.216 -18.597  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.584  25.800 -19.451  1.00  0.00           C  
+HETATM    4  O   UNL     1      72.426  25.148 -20.285  1.00  0.00           O  
+HETATM    5  H   UNL     1      72.909  25.625 -20.931  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.859  27.727 -20.331  1.00  0.00           C  
+HETATM    7  C   UNL     1      73.837  28.316 -19.311  1.00  0.00           C  
+HETATM    8  C   UNL     1      75.059  27.428 -19.126  1.00  0.00           C  
+HETATM    9  C   UNL     1      70.320  27.619 -20.652  1.00  0.00           C  
+HETATM   10  C   UNL     1      70.701  27.712 -22.131  1.00  0.00           C  
+HETATM   11  C   UNL     1      70.276  26.453 -22.872  1.00  0.00           C  
+ENDMDL
+MODEL       48
+REMARK minimizedAffinity -3.79028511
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      47.308  28.218  16.176  1.00  0.00           C  
+HETATM    2  O   UNL     1      48.584  27.878  18.222  1.00  0.00           O  
+HETATM    3  C   UNL     1      48.570  28.097  17.021  1.00  0.00           C  
+HETATM    4  O   UNL     1      49.709  28.220  16.301  1.00  0.00           O  
+HETATM    5  H   UNL     1      49.666  28.389  15.381  1.00  0.00           H  
+HETATM    6  C   UNL     1      47.423  29.521  15.357  1.00  0.00           C  
+HETATM    7  C   UNL     1      46.322  30.542  15.657  1.00  0.00           C  
+HETATM    8  C   UNL     1      45.185  30.455  14.650  1.00  0.00           C  
+HETATM    9  C   UNL     1      47.133  26.977  15.283  1.00  0.00           C  
+HETATM   10  C   UNL     1      45.924  26.115  15.656  1.00  0.00           C  
+HETATM   11  C   UNL     1      44.677  26.978  15.796  1.00  0.00           C  
+ENDMDL
+MODEL       49
+REMARK minimizedAffinity -3.77605867
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      45.419  14.960 -15.576  1.00  0.00           C  
+HETATM    2  O   UNL     1      46.605  15.908 -17.481  1.00  0.00           O  
+HETATM    3  C   UNL     1      46.248  14.923 -16.855  1.00  0.00           C  
+HETATM    4  O   UNL     1      46.596  13.670 -17.230  1.00  0.00           O  
+HETATM    5  H   UNL     1      46.306  12.933 -16.729  1.00  0.00           H  
+HETATM    6  C   UNL     1      46.356  15.401 -14.432  1.00  0.00           C  
+HETATM    7  C   UNL     1      47.181  14.260 -13.829  1.00  0.00           C  
+HETATM    8  C   UNL     1      46.300  13.102 -13.386  1.00  0.00           C  
+HETATM    9  C   UNL     1      44.210  15.897 -15.740  1.00  0.00           C  
+HETATM   10  C   UNL     1      43.540  16.273 -14.416  1.00  0.00           C  
+HETATM   11  C   UNL     1      42.585  17.442 -14.616  1.00  0.00           C  
+ENDMDL
+MODEL       50
+REMARK minimizedAffinity -3.77288771
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      61.024  44.311   5.689  1.00  0.00           C  
+HETATM    2  O   UNL     1      59.206  45.655   4.785  1.00  0.00           O  
+HETATM    3  C   UNL     1      59.971  44.713   4.663  1.00  0.00           C  
+HETATM    4  O   UNL     1      59.983  43.936   3.555  1.00  0.00           O  
+HETATM    5  H   UNL     1      60.583  43.219   3.491  1.00  0.00           H  
+HETATM    6  C   UNL     1      62.344  44.070   4.927  1.00  0.00           C  
+HETATM    7  C   UNL     1      62.892  42.647   5.067  1.00  0.00           C  
+HETATM    8  C   UNL     1      64.326  42.644   5.575  1.00  0.00           C  
+HETATM    9  C   UNL     1      61.162  45.391   6.776  1.00  0.00           C  
+HETATM   10  C   UNL     1      62.354  45.175   7.712  1.00  0.00           C  
+HETATM   11  C   UNL     1      62.124  43.956   8.594  1.00  0.00           C  
+ENDMDL
+MODEL       51
+REMARK minimizedAffinity -3.75294471
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      67.951  18.598 -25.023  1.00  0.00           C  
+HETATM    2  O   UNL     1      66.456  18.965 -26.910  1.00  0.00           O  
+HETATM    3  C   UNL     1      66.639  18.509 -25.793  1.00  0.00           C  
+HETATM    4  O   UNL     1      65.676  17.826 -25.130  1.00  0.00           O  
+HETATM    5  H   UNL     1      65.847  17.488 -24.273  1.00  0.00           H  
+HETATM    6  C   UNL     1      69.053  18.984 -26.031  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.084  19.972 -25.479  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.407  19.290 -25.167  1.00  0.00           C  
+HETATM    9  C   UNL     1      67.834  19.607 -23.866  1.00  0.00           C  
+HETATM   10  C   UNL     1      68.160  19.011 -22.494  1.00  0.00           C  
+HETATM   11  C   UNL     1      68.523  17.539 -22.625  1.00  0.00           C  
+ENDMDL
+MODEL       52
+REMARK minimizedAffinity -3.75069213
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      56.209  47.474  -3.866  1.00  0.00           C  
+HETATM    2  O   UNL     1      54.310  47.420  -2.341  1.00  0.00           O  
+HETATM    3  C   UNL     1      55.468  47.118  -2.582  1.00  0.00           C  
+HETATM    4  O   UNL     1      56.212  46.386  -1.722  1.00  0.00           O  
+HETATM    5  H   UNL     1      57.099  46.170  -1.935  1.00  0.00           H  
+HETATM    6  C   UNL     1      56.599  48.964  -3.777  1.00  0.00           C  
+HETATM    7  C   UNL     1      57.938  49.216  -3.080  1.00  0.00           C  
+HETATM    8  C   UNL     1      57.749  49.849  -1.710  1.00  0.00           C  
+HETATM    9  C   UNL     1      57.429  46.557  -4.060  1.00  0.00           C  
+HETATM   10  C   UNL     1      57.276  45.563  -5.213  1.00  0.00           C  
+HETATM   11  C   UNL     1      58.581  45.437  -5.986  1.00  0.00           C  
+ENDMDL
+MODEL       53
+REMARK minimizedAffinity -3.74993873
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      62.457  44.014   4.380  1.00  0.00           C  
+HETATM    2  O   UNL     1      62.815  45.164   2.263  1.00  0.00           O  
+HETATM    3  C   UNL     1      63.067  44.223   2.998  1.00  0.00           C  
+HETATM    4  O   UNL     1      63.966  43.270   2.661  1.00  0.00           O  
+HETATM    5  H   UNL     1      64.138  42.559   3.247  1.00  0.00           H  
+HETATM    6  C   UNL     1      60.925  44.123   4.230  1.00  0.00           C  
+HETATM    7  C   UNL     1      60.222  44.719   5.453  1.00  0.00           C  
+HETATM    8  C   UNL     1      59.142  45.712   5.053  1.00  0.00           C  
+HETATM    9  C   UNL     1      62.895  42.660   4.966  1.00  0.00           C  
+HETATM   10  C   UNL     1      63.828  42.785   6.173  1.00  0.00           C  
+HETATM   11  C   UNL     1      63.045  43.200   7.411  1.00  0.00           C  
+ENDMDL
+MODEL       54
+REMARK minimizedAffinity -3.74967861
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      39.850  24.816 -10.063  1.00  0.00           C  
+HETATM    2  O   UNL     1      39.994  24.083  -7.745  1.00  0.00           O  
+HETATM    3  C   UNL     1      39.430  24.030  -8.826  1.00  0.00           C  
+HETATM    4  O   UNL     1      38.325  23.276  -9.022  1.00  0.00           O  
+HETATM    5  H   UNL     1      37.914  23.256  -9.864  1.00  0.00           H  
+HETATM    6  C   UNL     1      38.620  25.616 -10.541  1.00  0.00           C  
+HETATM    7  C   UNL     1      38.189  25.297 -11.975  1.00  0.00           C  
+HETATM    8  C   UNL     1      39.149  24.329 -12.648  1.00  0.00           C  
+HETATM    9  C   UNL     1      41.054  25.721  -9.749  1.00  0.00           C  
+HETATM   10  C   UNL     1      40.767  27.213  -9.932  1.00  0.00           C  
+HETATM   11  C   UNL     1      42.023  28.033  -9.669  1.00  0.00           C  
+ENDMDL
+MODEL       55
+REMARK minimizedAffinity -3.72420835
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      68.214  22.075  20.616  1.00  0.00           C  
+HETATM    2  O   UNL     1      68.519  24.018  19.180  1.00  0.00           O  
+HETATM    3  C   UNL     1      67.765  23.244  19.748  1.00  0.00           C  
+HETATM    4  O   UNL     1      66.420  23.333  19.626  1.00  0.00           O  
+HETATM    5  H   UNL     1      65.868  22.724  20.075  1.00  0.00           H  
+HETATM    6  C   UNL     1      69.035  22.656  21.786  1.00  0.00           C  
+HETATM    7  C   UNL     1      68.222  23.537  22.738  1.00  0.00           C  
+HETATM    8  C   UNL     1      68.840  24.919  22.891  1.00  0.00           C  
+HETATM    9  C   UNL     1      67.001  21.259  21.097  1.00  0.00           C  
+HETATM   10  C   UNL     1      67.124  19.757  20.827  1.00  0.00           C  
+HETATM   11  C   UNL     1      65.884  19.024  21.320  1.00  0.00           C  
+ENDMDL
+MODEL       56
+REMARK minimizedAffinity -3.72059274
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      63.594  38.431  15.625  1.00  0.00           C  
+HETATM    2  O   UNL     1      62.501  37.402  17.543  1.00  0.00           O  
+HETATM    3  C   UNL     1      62.921  37.305  16.402  1.00  0.00           C  
+HETATM    4  O   UNL     1      62.791  36.165  15.684  1.00  0.00           O  
+HETATM    5  H   UNL     1      63.124  36.121  14.809  1.00  0.00           H  
+HETATM    6  C   UNL     1      62.757  38.678  14.352  1.00  0.00           C  
+HETATM    7  C   UNL     1      63.575  38.663  13.058  1.00  0.00           C  
+HETATM    8  C   UNL     1      63.614  37.276  12.434  1.00  0.00           C  
+HETATM    9  C   UNL     1      63.721  39.692  16.498  1.00  0.00           C  
+HETATM   10  C   UNL     1      65.167  40.133  16.736  1.00  0.00           C  
+HETATM   11  C   UNL     1      65.829  39.247  17.782  1.00  0.00           C  
+ENDMDL
+MODEL       57
+REMARK minimizedAffinity -3.71963859
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      41.938  32.193  -7.692  1.00  0.00           C  
+HETATM    2  O   UNL     1      42.540  34.539  -7.948  1.00  0.00           O  
+HETATM    3  C   UNL     1      42.012  33.538  -8.405  1.00  0.00           C  
+HETATM    4  O   UNL     1      41.460  33.519  -9.640  1.00  0.00           O  
+HETATM    5  H   UNL     1      41.062  32.735  -9.963  1.00  0.00           H  
+HETATM    6  C   UNL     1      40.923  32.336  -6.538  1.00  0.00           C  
+HETATM    7  C   UNL     1      39.486  32.586  -7.002  1.00  0.00           C  
+HETATM    8  C   UNL     1      38.902  33.842  -6.373  1.00  0.00           C  
+HETATM    9  C   UNL     1      41.553  31.077  -8.678  1.00  0.00           C  
+HETATM   10  C   UNL     1      42.006  29.683  -8.238  1.00  0.00           C  
+HETATM   11  C   UNL     1      41.988  28.719  -9.417  1.00  0.00           C  
+ENDMDL
+MODEL       58
+REMARK minimizedAffinity -3.71299267
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      68.126  33.811  19.450  1.00  0.00           C  
+HETATM    2  O   UNL     1      66.040  33.039  18.456  1.00  0.00           O  
+HETATM    3  C   UNL     1      67.255  32.955  18.538  1.00  0.00           C  
+HETATM    4  O   UNL     1      67.967  32.093  17.774  1.00  0.00           O  
+HETATM    5  H   UNL     1      68.900  32.052  17.860  1.00  0.00           H  
+HETATM    6  C   UNL     1      69.226  34.447  18.575  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.625  34.391  19.196  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.326  33.078  18.884  1.00  0.00           C  
+HETATM    9  C   UNL     1      67.275  34.864  20.181  1.00  0.00           C  
+HETATM   10  C   UNL     1      67.417  36.276  19.608  1.00  0.00           C  
+HETATM   11  C   UNL     1      66.047  36.870  19.309  1.00  0.00           C  
+ENDMDL
+MODEL       59
+REMARK minimizedAffinity -3.71062851
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.621  15.878  -8.456  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.546  13.656  -7.460  1.00  0.00           O  
+HETATM    3  C   UNL     1      72.073  14.755  -7.529  1.00  0.00           C  
+HETATM    4  O   UNL     1      73.164  15.075  -6.795  1.00  0.00           O  
+HETATM    5  H   UNL     1      73.546  15.928  -6.871  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.308  17.175  -7.980  1.00  0.00           C  
+HETATM    7  C   UNL     1      71.405  18.088  -7.147  1.00  0.00           C  
+HETATM    8  C   UNL     1      72.040  18.438  -5.810  1.00  0.00           C  
+HETATM    9  C   UNL     1      71.952  15.540  -9.920  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.050  16.767 -10.828  1.00  0.00           C  
+HETATM   11  C   UNL     1      73.280  16.674 -11.721  1.00  0.00           C  
+ENDMDL
+MODEL       60
+REMARK minimizedAffinity -3.70288062
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      41.102  35.337  -7.574  1.00  0.00           C  
+HETATM    2  O   UNL     1      42.769  35.621  -9.326  1.00  0.00           O  
+HETATM    3  C   UNL     1      41.981  34.897  -8.739  1.00  0.00           C  
+HETATM    4  O   UNL     1      41.838  33.589  -9.053  1.00  0.00           O  
+HETATM    5  H   UNL     1      41.224  33.059  -8.583  1.00  0.00           H  
+HETATM    6  C   UNL     1      41.733  34.775  -6.282  1.00  0.00           C  
+HETATM    7  C   UNL     1      40.846  33.771  -5.542  1.00  0.00           C  
+HETATM    8  C   UNL     1      39.421  33.782  -6.073  1.00  0.00           C  
+HETATM    9  C   UNL     1      40.967  36.869  -7.544  1.00  0.00           C  
+HETATM   10  C   UNL     1      41.066  37.468  -6.139  1.00  0.00           C  
+HETATM   11  C   UNL     1      40.722  38.951  -6.166  1.00  0.00           C  
+ENDMDL
+MODEL       61
+REMARK minimizedAffinity -3.69976377
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      58.909  47.801   6.381  1.00  0.00           C  
+HETATM    2  O   UNL     1      59.880  49.932   5.711  1.00  0.00           O  
+HETATM    3  C   UNL     1      58.900  49.210   5.800  1.00  0.00           C  
+HETATM    4  O   UNL     1      57.685  49.591   5.341  1.00  0.00           O  
+HETATM    5  H   UNL     1      56.951  49.014   5.424  1.00  0.00           H  
+HETATM    6  C   UNL     1      59.739  46.914   5.429  1.00  0.00           C  
+HETATM    7  C   UNL     1      59.057  45.596   5.054  1.00  0.00           C  
+HETATM    8  C   UNL     1      60.071  44.498   4.771  1.00  0.00           C  
+HETATM    9  C   UNL     1      59.468  47.809   7.814  1.00  0.00           C  
+HETATM   10  C   UNL     1      58.523  48.439   8.840  1.00  0.00           C  
+HETATM   11  C   UNL     1      58.990  48.128  10.256  1.00  0.00           C  
+ENDMDL
+MODEL       62
+REMARK minimizedAffinity -3.69787121
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      42.057  28.684  -9.628  1.00  0.00           C  
+HETATM    2  O   UNL     1      41.524  26.307  -9.612  1.00  0.00           O  
+HETATM    3  C   UNL     1      41.153  27.464  -9.492  1.00  0.00           C  
+HETATM    4  O   UNL     1      39.874  27.779  -9.181  1.00  0.00           O  
+HETATM    5  H   UNL     1      39.620  28.677  -9.096  1.00  0.00           H  
+HETATM    6  C   UNL     1      41.561  29.493 -10.845  1.00  0.00           C  
+HETATM    7  C   UNL     1      42.172  29.050 -12.178  1.00  0.00           C  
+HETATM    8  C   UNL     1      41.101  28.728 -13.208  1.00  0.00           C  
+HETATM    9  C   UNL     1      42.051  29.511  -8.331  1.00  0.00           C  
+HETATM   10  C   UNL     1      41.589  30.957  -8.525  1.00  0.00           C  
+HETATM   11  C   UNL     1      41.379  31.635  -7.178  1.00  0.00           C  
+ENDMDL
+MODEL       63
+REMARK minimizedAffinity -3.6961205
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.544  33.995  -0.422  1.00  0.00           C  
+HETATM    2  O   UNL     1      74.011  33.575   1.476  1.00  0.00           O  
+HETATM    3  C   UNL     1      73.852  34.040   0.359  1.00  0.00           C  
+HETATM    4  O   UNL     1      74.863  34.624  -0.326  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.709  34.972  -1.182  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.397  35.343  -1.158  1.00  0.00           C  
+HETATM    7  C   UNL     1      71.638  35.249  -2.484  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.859  36.482  -3.347  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.528  32.795  -1.386  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.488  31.731  -1.028  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.055  30.754  -0.006  1.00  0.00           C  
+ENDMDL
+MODEL       64
+REMARK minimizedAffinity -3.69475436
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      54.533   7.003 -15.653  1.00  0.00           C  
+HETATM    2  O   UNL     1      52.441   5.816 -15.273  1.00  0.00           O  
+HETATM    3  C   UNL     1      53.022   6.806 -15.686  1.00  0.00           C  
+HETATM    4  O   UNL     1      52.357   7.870 -16.194  1.00  0.00           O  
+HETATM    5  H   UNL     1      52.832   8.615 -16.504  1.00  0.00           H  
+HETATM    6  C   UNL     1      55.184   5.609 -15.787  1.00  0.00           C  
+HETATM    7  C   UNL     1      56.192   5.284 -14.682  1.00  0.00           C  
+HETATM    8  C   UNL     1      56.418   6.473 -13.760  1.00  0.00           C  
+HETATM    9  C   UNL     1      54.980   7.969 -16.764  1.00  0.00           C  
+HETATM   10  C   UNL     1      55.475   7.265 -18.030  1.00  0.00           C  
+HETATM   11  C   UNL     1      54.381   7.241 -19.089  1.00  0.00           C  
+ENDMDL
+MODEL       65
+REMARK minimizedAffinity -3.68508148
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      48.502  16.123  13.538  1.00  0.00           C  
+HETATM    2  O   UNL     1      50.263  15.655  15.154  1.00  0.00           O  
+HETATM    3  C   UNL     1      49.794  16.392  14.301  1.00  0.00           C  
+HETATM    4  O   UNL     1      50.415  17.530  13.916  1.00  0.00           O  
+HETATM    5  H   UNL     1      50.029  18.075  13.258  1.00  0.00           H  
+HETATM    6  C   UNL     1      48.359  17.226  12.469  1.00  0.00           C  
+HETATM    7  C   UNL     1      46.944  17.799  12.351  1.00  0.00           C  
+HETATM    8  C   UNL     1      46.162  17.139  11.226  1.00  0.00           C  
+HETATM    9  C   UNL     1      48.516  14.711  12.927  1.00  0.00           C  
+HETATM   10  C   UNL     1      49.073  14.662  11.502  1.00  0.00           C  
+HETATM   11  C   UNL     1      50.401  13.918  11.475  1.00  0.00           C  
+ENDMDL
+MODEL       66
+REMARK minimizedAffinity -3.67693043
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      58.321  46.397  -4.888  1.00  0.00           C  
+HETATM    2  O   UNL     1      59.747  45.613  -6.701  1.00  0.00           O  
+HETATM    3  C   UNL     1      58.697  45.529  -6.083  1.00  0.00           C  
+HETATM    4  O   UNL     1      57.758  44.603  -6.388  1.00  0.00           O  
+HETATM    5  H   UNL     1      56.962  44.564  -5.895  1.00  0.00           H  
+HETATM    6  C   UNL     1      58.281  47.861  -5.375  1.00  0.00           C  
+HETATM    7  C   UNL     1      57.165  48.150  -6.384  1.00  0.00           C  
+HETATM    8  C   UNL     1      56.285  49.305  -5.932  1.00  0.00           C  
+HETATM    9  C   UNL     1      56.981  45.941  -4.286  1.00  0.00           C  
+HETATM   10  C   UNL     1      56.645  46.612  -2.952  1.00  0.00           C  
+HETATM   11  C   UNL     1      55.256  47.234  -3.003  1.00  0.00           C  
+ENDMDL
+MODEL       67
+REMARK minimizedAffinity -3.66984582
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      59.022  46.970   5.636  1.00  0.00           C  
+HETATM    2  O   UNL     1      60.574  48.121   4.154  1.00  0.00           O  
+HETATM    3  C   UNL     1      59.436  47.978   4.570  1.00  0.00           C  
+HETATM    4  O   UNL     1      58.398  48.695   4.081  1.00  0.00           O  
+HETATM    5  H   UNL     1      57.535  48.562   4.422  1.00  0.00           H  
+HETATM    6  C   UNL     1      59.220  45.560   5.041  1.00  0.00           C  
+HETATM    7  C   UNL     1      60.437  44.815   5.597  1.00  0.00           C  
+HETATM    8  C   UNL     1      61.286  44.218   4.486  1.00  0.00           C  
+HETATM    9  C   UNL     1      59.832  47.182   6.927  1.00  0.00           C  
+HETATM   10  C   UNL     1      59.139  48.090   7.946  1.00  0.00           C  
+HETATM   11  C   UNL     1      59.530  47.695   9.364  1.00  0.00           C  
+ENDMDL
+MODEL       68
+REMARK minimizedAffinity -3.65255094
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.230  14.988  -8.350  1.00  0.00           C  
+HETATM    2  O   UNL     1      72.208  16.927  -6.877  1.00  0.00           O  
+HETATM    3  C   UNL     1      72.757  15.904  -7.251  1.00  0.00           C  
+HETATM    4  O   UNL     1      73.898  15.452  -6.681  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.296  14.662  -6.991  1.00  0.00           H  
+HETATM    6  C   UNL     1      71.522  13.801  -7.664  1.00  0.00           C  
+HETATM    7  C   UNL     1      72.268  12.471  -7.797  1.00  0.00           C  
+HETATM    8  C   UNL     1      73.186  12.460  -9.011  1.00  0.00           C  
+HETATM    9  C   UNL     1      71.296  15.761  -9.299  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.029  16.482 -10.432  1.00  0.00           C  
+HETATM   11  C   UNL     1      73.043  15.554 -11.086  1.00  0.00           C  
+ENDMDL
+MODEL       69
+REMARK minimizedAffinity -3.65240765
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      45.081  15.128 -14.649  1.00  0.00           C  
+HETATM    2  O   UNL     1      43.055  16.428 -14.279  1.00  0.00           O  
+HETATM    3  C   UNL     1      43.880  15.634 -13.858  1.00  0.00           C  
+HETATM    4  O   UNL     1      43.781  15.082 -12.627  1.00  0.00           O  
+HETATM    5  H   UNL     1      44.431  14.475 -12.332  1.00  0.00           H  
+HETATM    6  C   UNL     1      45.050  15.821 -16.028  1.00  0.00           C  
+HETATM    7  C   UNL     1      46.173  15.379 -16.971  1.00  0.00           C  
+HETATM    8  C   UNL     1      46.435  16.412 -18.056  1.00  0.00           C  
+HETATM    9  C   UNL     1      46.388  15.399 -13.884  1.00  0.00           C  
+HETATM   10  C   UNL     1      47.278  14.164 -13.729  1.00  0.00           C  
+HETATM   11  C   UNL     1      46.433  12.932 -13.432  1.00  0.00           C  
+ENDMDL
+MODEL       70
+REMARK minimizedAffinity -3.65125704
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      48.198  17.595  14.129  1.00  0.00           C  
+HETATM    2  O   UNL     1      49.922  18.046  15.790  1.00  0.00           O  
+HETATM    3  C   UNL     1      49.621  17.810  14.631  1.00  0.00           C  
+HETATM    4  O   UNL     1      50.555  17.677  13.660  1.00  0.00           O  
+HETATM    5  H   UNL     1      50.293  17.497  12.779  1.00  0.00           H  
+HETATM    6  C   UNL     1      47.250  18.329  15.100  1.00  0.00           C  
+HETATM    7  C   UNL     1      46.189  17.427  15.736  1.00  0.00           C  
+HETATM    8  C   UNL     1      44.864  17.506  14.993  1.00  0.00           C  
+HETATM    9  C   UNL     1      48.053  18.089  12.680  1.00  0.00           C  
+HETATM   10  C   UNL     1      47.592  17.004  11.703  1.00  0.00           C  
+HETATM   11  C   UNL     1      46.122  17.190  11.354  1.00  0.00           C  
+ENDMDL
+MODEL       71
+REMARK minimizedAffinity -3.64835525
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      63.100  37.837  16.657  1.00  0.00           C  
+HETATM    2  O   UNL     1      61.888  36.985  18.590  1.00  0.00           O  
+HETATM    3  C   UNL     1      61.865  37.450  17.462  1.00  0.00           C  
+HETATM    4  O   UNL     1      60.704  37.709  16.817  1.00  0.00           O  
+HETATM    5  H   UNL     1      60.719  38.066  15.950  1.00  0.00           H  
+HETATM    6  C   UNL     1      64.331  37.602  17.558  1.00  0.00           C  
+HETATM    7  C   UNL     1      65.149  38.867  17.835  1.00  0.00           C  
+HETATM    8  C   UNL     1      64.999  39.889  16.719  1.00  0.00           C  
+HETATM    9  C   UNL     1      63.169  37.033  15.348  1.00  0.00           C  
+HETATM   10  C   UNL     1      63.078  37.898  14.088  1.00  0.00           C  
+HETATM   11  C   UNL     1      63.447  37.084  12.855  1.00  0.00           C  
+ENDMDL
+MODEL       72
+REMARK minimizedAffinity -3.64787006
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      66.981  21.344  20.688  1.00  0.00           C  
+HETATM    2  O   UNL     1      66.216  23.380  19.591  1.00  0.00           O  
+HETATM    3  C   UNL     1      66.287  22.699  20.601  1.00  0.00           C  
+HETATM    4  O   UNL     1      65.704  23.075  21.763  1.00  0.00           O  
+HETATM    5  H   UNL     1      65.775  22.530  22.522  1.00  0.00           H  
+HETATM    6  C   UNL     1      68.167  21.495  21.665  1.00  0.00           C  
+HETATM    7  C   UNL     1      69.310  22.359  21.126  1.00  0.00           C  
+HETATM    8  C   UNL     1      69.617  22.042  19.671  1.00  0.00           C  
+HETATM    9  C   UNL     1      65.990  20.254  21.131  1.00  0.00           C  
+HETATM   10  C   UNL     1      66.657  19.058  21.816  1.00  0.00           C  
+HETATM   11  C   UNL     1      66.997  17.980  20.796  1.00  0.00           C  
+ENDMDL
+MODEL       73
+REMARK minimizedAffinity -3.64746547
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      62.400   5.198 -17.803  1.00  0.00           C  
+HETATM    2  O   UNL     1      64.528   4.167 -17.220  1.00  0.00           O  
+HETATM    3  C   UNL     1      63.805   5.150 -17.214  1.00  0.00           C  
+HETATM    4  O   UNL     1      64.211   6.336 -16.703  1.00  0.00           O  
+HETATM    5  H   UNL     1      63.632   7.073 -16.713  1.00  0.00           H  
+HETATM    6  C   UNL     1      62.543   5.219 -19.339  1.00  0.00           C  
+HETATM    7  C   UNL     1      62.297   6.593 -19.968  1.00  0.00           C  
+HETATM    8  C   UNL     1      61.343   7.432 -19.132  1.00  0.00           C  
+HETATM    9  C   UNL     1      61.562   4.006 -17.307  1.00  0.00           C  
+HETATM   10  C   UNL     1      61.172   4.100 -15.829  1.00  0.00           C  
+HETATM   11  C   UNL     1      61.809   2.966 -15.037  1.00  0.00           C  
+ENDMDL
+MODEL       74
+REMARK minimizedAffinity -3.64203835
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      41.683  13.940  -1.511  1.00  0.00           C  
+HETATM    2  O   UNL     1      43.430  12.254  -1.323  1.00  0.00           O  
+HETATM    3  C   UNL     1      43.006  13.358  -1.025  1.00  0.00           C  
+HETATM    4  O   UNL     1      43.709  14.211  -0.244  1.00  0.00           O  
+HETATM    5  H   UNL     1      43.356  15.053  -0.033  1.00  0.00           H  
+HETATM    6  C   UNL     1      42.007  15.216  -2.316  1.00  0.00           C  
+HETATM    7  C   UNL     1      41.498  15.186  -3.760  1.00  0.00           C  
+HETATM    8  C   UNL     1      41.688  16.527  -4.451  1.00  0.00           C  
+HETATM    9  C   UNL     1      40.906  12.902  -2.341  1.00  0.00           C  
+HETATM   10  C   UNL     1      39.658  12.362  -1.638  1.00  0.00           C  
+HETATM   11  C   UNL     1      39.158  13.356  -0.601  1.00  0.00           C  
+ENDMDL
+MODEL       75
+REMARK minimizedAffinity -3.63487744
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      48.162  15.695  12.090  1.00  0.00           C  
+HETATM    2  O   UNL     1      46.804  17.687  11.746  1.00  0.00           O  
+HETATM    3  C   UNL     1      47.380  16.719  11.276  1.00  0.00           C  
+HETATM    4  O   UNL     1      47.410  16.478   9.945  1.00  0.00           O  
+HETATM    5  H   UNL     1      47.860  15.726   9.615  1.00  0.00           H  
+HETATM    6  C   UNL     1      48.840  14.732  11.093  1.00  0.00           C  
+HETATM    7  C   UNL     1      49.627  13.600  11.758  1.00  0.00           C  
+HETATM    8  C   UNL     1      51.116  13.703  11.465  1.00  0.00           C  
+HETATM    9  C   UNL     1      49.175  16.394  13.013  1.00  0.00           C  
+HETATM   10  C   UNL     1      48.964  16.095  14.499  1.00  0.00           C  
+HETATM   11  C   UNL     1      50.099  15.234  15.036  1.00  0.00           C  
+ENDMDL
+MODEL       76
+REMARK minimizedAffinity -3.63268065
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      67.544  33.776  19.509  1.00  0.00           C  
+HETATM    2  O   UNL     1      69.612  32.999  18.483  1.00  0.00           O  
+HETATM    3  C   UNL     1      68.392  32.984  18.520  1.00  0.00           C  
+HETATM    4  O   UNL     1      67.658  32.211  17.687  1.00  0.00           O  
+HETATM    5  H   UNL     1      66.723  32.221  17.740  1.00  0.00           H  
+HETATM    6  C   UNL     1      67.944  35.260  19.377  1.00  0.00           C  
+HETATM    7  C   UNL     1      67.043  36.220  20.158  1.00  0.00           C  
+HETATM    8  C   UNL     1      66.421  37.271  19.251  1.00  0.00           C  
+HETATM    9  C   UNL     1      66.046  33.545  19.246  1.00  0.00           C  
+HETATM   10  C   UNL     1      65.342  32.749  20.348  1.00  0.00           C  
+HETATM   11  C   UNL     1      64.653  31.524  19.763  1.00  0.00           C  
+ENDMDL
+MODEL       77
+REMARK minimizedAffinity -3.62997794
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      62.401  39.395  13.950  1.00  0.00           C  
+HETATM    2  O   UNL     1      60.590  40.801  14.772  1.00  0.00           O  
+HETATM    3  C   UNL     1      61.142  39.712  14.748  1.00  0.00           C  
+HETATM    4  O   UNL     1      60.650  38.644  15.417  1.00  0.00           O  
+HETATM    5  H   UNL     1      61.097  37.821  15.379  1.00  0.00           H  
+HETATM    6  C   UNL     1      63.239  40.689  13.874  1.00  0.00           C  
+HETATM    7  C   UNL     1      63.926  40.907  12.523  1.00  0.00           C  
+HETATM    8  C   UNL     1      62.974  40.661  11.362  1.00  0.00           C  
+HETATM    9  C   UNL     1      63.174  38.232  14.597  1.00  0.00           C  
+HETATM   10  C   UNL     1      63.160  36.946  13.766  1.00  0.00           C  
+HETATM   11  C   UNL     1      63.781  37.189  12.397  1.00  0.00           C  
+ENDMDL
+MODEL       78
+REMARK minimizedAffinity -3.62222481
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      78.663  14.169  17.275  1.00  0.00           C  
+HETATM    2  O   UNL     1      76.940  14.833  18.862  1.00  0.00           O  
+HETATM    3  C   UNL     1      77.862  14.090  18.570  1.00  0.00           C  
+HETATM    4  O   UNL     1      78.248  13.073  19.375  1.00  0.00           O  
+HETATM    5  H   UNL     1      78.960  12.519  19.122  1.00  0.00           H  
+HETATM    6  C   UNL     1      77.867  15.053  16.293  1.00  0.00           C  
+HETATM    7  C   UNL     1      77.774  14.481  14.876  1.00  0.00           C  
+HETATM    8  C   UNL     1      77.532  12.979  14.891  1.00  0.00           C  
+HETATM    9  C   UNL     1      80.077  14.715  17.544  1.00  0.00           C  
+HETATM   10  C   UNL     1      81.188  13.688  17.308  1.00  0.00           C  
+HETATM   11  C   UNL     1      81.101  13.123  15.897  1.00  0.00           C  
+ENDMDL
+MODEL       79
+REMARK minimizedAffinity -3.62091565
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      38.641  25.354  -9.774  1.00  0.00           C  
+HETATM    2  O   UNL     1      40.184  24.019  -8.445  1.00  0.00           O  
+HETATM    3  C   UNL     1      39.116  24.113  -9.028  1.00  0.00           C  
+HETATM    4  O   UNL     1      38.210  23.108  -9.032  1.00  0.00           O  
+HETATM    5  H   UNL     1      37.398  23.210  -9.489  1.00  0.00           H  
+HETATM    6  C   UNL     1      38.027  26.313  -8.733  1.00  0.00           C  
+HETATM    7  C   UNL     1      36.518  26.522  -8.892  1.00  0.00           C  
+HETATM    8  C   UNL     1      35.851  26.837  -7.563  1.00  0.00           C  
+HETATM    9  C   UNL     1      39.802  25.997 -10.553  1.00  0.00           C  
+HETATM   10  C   UNL     1      40.251  27.346  -9.985  1.00  0.00           C  
+HETATM   11  C   UNL     1      41.759  27.362  -9.779  1.00  0.00           C  
+ENDMDL
+MODEL       80
+REMARK minimizedAffinity -3.62038159
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      59.186   6.336   4.883  1.00  0.00           C  
+HETATM    2  O   UNL     1      57.554   4.955   3.716  1.00  0.00           O  
+HETATM    3  C   UNL     1      58.378   5.854   3.683  1.00  0.00           C  
+HETATM    4  O   UNL     1      58.632   6.555   2.554  1.00  0.00           O  
+HETATM    5  H   UNL     1      59.271   7.240   2.561  1.00  0.00           H  
+HETATM    6  C   UNL     1      60.460   7.017   4.340  1.00  0.00           C  
+HETATM    7  C   UNL     1      61.688   6.103   4.307  1.00  0.00           C  
+HETATM    8  C   UNL     1      62.326   6.069   2.927  1.00  0.00           C  
+HETATM    9  C   UNL     1      58.345   7.279   5.761  1.00  0.00           C  
+HETATM   10  C   UNL     1      58.514   8.759   5.412  1.00  0.00           C  
+HETATM   11  C   UNL     1      57.526   9.609   6.199  1.00  0.00           C  
+ENDMDL
+MODEL       81
+REMARK minimizedAffinity -3.61653328
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.028  26.457 -20.309  1.00  0.00           C  
+HETATM    2  O   UNL     1      72.467  28.223 -19.446  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.343  27.779 -19.617  1.00  0.00           C  
+HETATM    4  O   UNL     1      70.237  28.456 -19.231  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.388  28.088 -19.376  1.00  0.00           H  
+HETATM    6  C   UNL     1      70.066  26.765 -21.476  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.475  27.978 -22.316  1.00  0.00           C  
+HETATM    8  C   UNL     1      70.144  27.780 -23.787  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.321  25.769 -20.779  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.147  24.937 -22.052  1.00  0.00           C  
+HETATM   11  C   UNL     1      73.204  25.312 -23.082  1.00  0.00           C  
+ENDMDL
+MODEL       82
+REMARK minimizedAffinity -3.61504865
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.800  15.864 -10.195  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.501  17.707 -11.114  1.00  0.00           O  
+HETATM    3  C   UNL     1      72.490  16.995 -11.169  1.00  0.00           C  
+HETATM    4  O   UNL     1      73.451  17.173 -12.105  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.199  16.609 -12.121  1.00  0.00           H  
+HETATM    6  C   UNL     1      71.517  15.588  -9.383  1.00  0.00           C  
+HETATM    7  C   UNL     1      71.774  15.221  -7.919  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.619  13.727  -7.679  1.00  0.00           C  
+HETATM    9  C   UNL     1      73.298  14.619 -10.950  1.00  0.00           C  
+HETATM   10  C   UNL     1      74.402  13.854 -10.216  1.00  0.00           C  
+HETATM   11  C   UNL     1      74.087  12.365 -10.182  1.00  0.00           C  
+ENDMDL
+MODEL       83
+REMARK minimizedAffinity -3.60005879
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      55.232  42.392 -16.448  1.00  0.00           C  
+HETATM    2  O   UNL     1      53.648  42.262 -14.602  1.00  0.00           O  
+HETATM    3  C   UNL     1      54.763  42.034 -15.042  1.00  0.00           C  
+HETATM    4  O   UNL     1      55.703  41.387 -14.315  1.00  0.00           O  
+HETATM    5  H   UNL     1      56.551  41.227 -14.681  1.00  0.00           H  
+HETATM    6  C   UNL     1      54.519  41.440 -17.430  1.00  0.00           C  
+HETATM    7  C   UNL     1      53.999  42.127 -18.696  1.00  0.00           C  
+HETATM    8  C   UNL     1      54.982  41.998 -19.849  1.00  0.00           C  
+HETATM    9  C   UNL     1      54.948  43.873 -16.753  1.00  0.00           C  
+HETATM   10  C   UNL     1      56.206  44.695 -17.045  1.00  0.00           C  
+HETATM   11  C   UNL     1      57.456  43.864 -16.792  1.00  0.00           C  
+ENDMDL
+MODEL       84
+REMARK minimizedAffinity -3.59454322
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      47.044  17.306  12.898  1.00  0.00           C  
+HETATM    2  O   UNL     1      45.811  17.563  14.982  1.00  0.00           O  
+HETATM    3  C   UNL     1      45.863  17.126  13.844  1.00  0.00           C  
+HETATM    4  O   UNL     1      44.829  16.455  13.285  1.00  0.00           O  
+HETATM    5  H   UNL     1      44.899  16.132  12.408  1.00  0.00           H  
+HETATM    6  C   UNL     1      46.498  17.236  11.456  1.00  0.00           C  
+HETATM    7  C   UNL     1      47.236  16.239  10.559  1.00  0.00           C  
+HETATM    8  C   UNL     1      48.212  15.384  11.353  1.00  0.00           C  
+HETATM    9  C   UNL     1      47.773  18.631  13.185  1.00  0.00           C  
+HETATM   10  C   UNL     1      49.297  18.499  13.227  1.00  0.00           C  
+HETATM   11  C   UNL     1      49.712  17.421  14.219  1.00  0.00           C  
+ENDMDL
+MODEL       85
+REMARK minimizedAffinity -3.59427571
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      64.051   7.677  -3.451  1.00  0.00           C  
+HETATM    2  O   UNL     1      64.828   5.922  -4.951  1.00  0.00           O  
+HETATM    3  C   UNL     1      64.858   7.092  -4.604  1.00  0.00           C  
+HETATM    4  O   UNL     1      65.604   8.014  -5.256  1.00  0.00           O  
+HETATM    5  H   UNL     1      65.606   8.905  -4.965  1.00  0.00           H  
+HETATM    6  C   UNL     1      62.860   6.731  -3.194  1.00  0.00           C  
+HETATM    7  C   UNL     1      61.509   7.296  -3.639  1.00  0.00           C  
+HETATM    8  C   UNL     1      60.662   6.244  -4.339  1.00  0.00           C  
+HETATM    9  C   UNL     1      64.937   7.858  -2.206  1.00  0.00           C  
+HETATM   10  C   UNL     1      64.182   8.387  -0.984  1.00  0.00           C  
+HETATM   11  C   UNL     1      64.530   9.847  -0.734  1.00  0.00           C  
+ENDMDL
+MODEL       86
+REMARK minimizedAffinity -3.58919883
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.817  33.952   0.253  1.00  0.00           C  
+HETATM    2  O   UNL     1      74.286  34.011   2.195  1.00  0.00           O  
+HETATM    3  C   UNL     1      74.091  33.668   1.040  1.00  0.00           C  
+HETATM    4  O   UNL     1      75.001  32.949   0.343  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.823  32.701  -0.543  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.812  35.456  -0.091  1.00  0.00           C  
+HETATM    7  C   UNL     1      72.528  36.367   1.107  1.00  0.00           C  
+HETATM    8  C   UNL     1      73.519  37.519   1.184  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.744  33.063  -1.000  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.642  32.003  -0.940  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.113  30.788  -0.152  1.00  0.00           C  
+ENDMDL
+MODEL       87
+REMARK minimizedAffinity -3.58899188
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      79.151  13.464  14.638  1.00  0.00           C  
+HETATM    2  O   UNL     1      80.190  13.320  16.836  1.00  0.00           O  
+HETATM    3  C   UNL     1      80.312  13.387  15.623  1.00  0.00           C  
+HETATM    4  O   UNL     1      81.523  13.360  15.021  1.00  0.00           O  
+HETATM    5  H   UNL     1      81.583  13.414  14.087  1.00  0.00           H  
+HETATM    6  C   UNL     1      78.505  12.064  14.575  1.00  0.00           C  
+HETATM    7  C   UNL     1      79.278  11.059  13.717  1.00  0.00           C  
+HETATM    8  C   UNL     1      78.930   9.624  14.080  1.00  0.00           C  
+HETATM    9  C   UNL     1      78.151  14.554  15.061  1.00  0.00           C  
+HETATM   10  C   UNL     1      76.933  14.014  15.813  1.00  0.00           C  
+HETATM   11  C   UNL     1      76.817  14.669  17.182  1.00  0.00           C  
+ENDMDL
+MODEL       88
+REMARK minimizedAffinity -3.57474589
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      50.405  36.420  15.568  1.00  0.00           C  
+HETATM    2  O   UNL     1      48.504  36.416  14.046  1.00  0.00           O  
+HETATM    3  C   UNL     1      49.694  36.224  14.234  1.00  0.00           C  
+HETATM    4  O   UNL     1      50.526  35.843  13.236  1.00  0.00           O  
+HETATM    5  H   UNL     1      51.435  35.704  13.412  1.00  0.00           H  
+HETATM    6  C   UNL     1      50.408  37.933  15.871  1.00  0.00           C  
+HETATM    7  C   UNL     1      51.580  38.390  16.745  1.00  0.00           C  
+HETATM    8  C   UNL     1      51.146  38.639  18.181  1.00  0.00           C  
+HETATM    9  C   UNL     1      49.719  35.601  16.675  1.00  0.00           C  
+HETATM   10  C   UNL     1      50.423  34.278  16.987  1.00  0.00           C  
+HETATM   11  C   UNL     1      51.931  34.475  17.037  1.00  0.00           C  
+ENDMDL
+MODEL       89
+REMARK minimizedAffinity -3.57013059
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      69.403   9.812  16.650  1.00  0.00           C  
+HETATM    2  O   UNL     1      69.062  10.905  14.500  1.00  0.00           O  
+HETATM    3  C   UNL     1      69.234  10.996  15.705  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.253  12.192  16.339  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.387  12.229  17.265  1.00  0.00           H  
+HETATM    6  C   UNL     1      67.996   9.244  16.934  1.00  0.00           C  
+HETATM    7  C   UNL     1      67.593   8.091  16.012  1.00  0.00           C  
+HETATM    8  C   UNL     1      66.440   8.478  15.098  1.00  0.00           C  
+HETATM    9  C   UNL     1      70.348   8.762  16.041  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.825   9.001  16.366  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.037   9.053  17.873  1.00  0.00           C  
+ENDMDL
+MODEL       90
+REMARK minimizedAffinity -3.56483889
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      53.617  48.721  -4.566  1.00  0.00           C  
+HETATM    2  O   UNL     1      52.238  48.357  -6.541  1.00  0.00           O  
+HETATM    3  C   UNL     1      52.320  48.476  -5.329  1.00  0.00           C  
+HETATM    4  O   UNL     1      51.240  48.361  -4.522  1.00  0.00           O  
+HETATM    5  H   UNL     1      51.335  48.458  -3.595  1.00  0.00           H  
+HETATM    6  C   UNL     1      53.907  47.457  -3.730  1.00  0.00           C  
+HETATM    7  C   UNL     1      55.102  47.599  -2.783  1.00  0.00           C  
+HETATM    8  C   UNL     1      56.216  46.625  -3.134  1.00  0.00           C  
+HETATM    9  C   UNL     1      54.762  49.059  -5.537  1.00  0.00           C  
+HETATM   10  C   UNL     1      55.382  50.438  -5.302  1.00  0.00           C  
+HETATM   11  C   UNL     1      54.732  51.118  -4.105  1.00  0.00           C  
+ENDMDL
+MODEL       91
+REMARK minimizedAffinity -3.56203341
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      67.474  23.105  21.514  1.00  0.00           C  
+HETATM    2  O   UNL     1      67.856  25.436  22.106  1.00  0.00           O  
+HETATM    3  C   UNL     1      67.096  24.483  22.044  1.00  0.00           C  
+HETATM    4  O   UNL     1      65.798  24.575  22.415  1.00  0.00           O  
+HETATM    5  H   UNL     1      65.239  23.825  22.355  1.00  0.00           H  
+HETATM    6  C   UNL     1      66.511  22.776  20.354  1.00  0.00           C  
+HETATM    7  C   UNL     1      65.808  21.423  20.493  1.00  0.00           C  
+HETATM    8  C   UNL     1      66.204  20.713  21.779  1.00  0.00           C  
+HETATM    9  C   UNL     1      68.949  23.077  21.078  1.00  0.00           C  
+HETATM   10  C   UNL     1      69.145  23.151  19.562  1.00  0.00           C  
+HETATM   11  C   UNL     1      69.653  24.528  19.157  1.00  0.00           C  
+ENDMDL
+MODEL       92
+REMARK minimizedAffinity -3.55727768
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      50.296  36.458 -15.236  1.00  0.00           C  
+HETATM    2  O   UNL     1      50.197  34.337 -16.430  1.00  0.00           O  
+HETATM    3  C   UNL     1      50.752  35.053 -15.612  1.00  0.00           C  
+HETATM    4  O   UNL     1      51.881  34.669 -14.972  1.00  0.00           O  
+HETATM    5  H   UNL     1      52.284  35.242 -14.349  1.00  0.00           H  
+HETATM    6  C   UNL     1      49.656  37.087 -16.492  1.00  0.00           C  
+HETATM    7  C   UNL     1      50.656  37.788 -17.415  1.00  0.00           C  
+HETATM    8  C   UNL     1      50.582  39.301 -17.277  1.00  0.00           C  
+HETATM    9  C   UNL     1      49.327  36.413 -14.042  1.00  0.00           C  
+HETATM   10  C   UNL     1      48.773  37.784 -13.646  1.00  0.00           C  
+HETATM   11  C   UNL     1      47.298  37.679 -13.287  1.00  0.00           C  
+ENDMDL
+MODEL       93
+REMARK minimizedAffinity -3.55317116
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      47.791  29.035  16.594  1.00  0.00           C  
+HETATM    2  O   UNL     1      48.425  27.535  18.404  1.00  0.00           O  
+HETATM    3  C   UNL     1      48.732  28.137  17.388  1.00  0.00           C  
+HETATM    4  O   UNL     1      49.962  28.030  16.834  1.00  0.00           O  
+HETATM    5  H   UNL     1      50.167  28.506  16.053  1.00  0.00           H  
+HETATM    6  C   UNL     1      48.417  30.445  16.560  1.00  0.00           C  
+HETATM    7  C   UNL     1      47.433  31.553  16.175  1.00  0.00           C  
+HETATM    8  C   UNL     1      48.088  32.926  16.216  1.00  0.00           C  
+HETATM    9  C   UNL     1      47.554  28.463  15.185  1.00  0.00           C  
+HETATM   10  C   UNL     1      47.171  26.981  15.179  1.00  0.00           C  
+HETATM   11  C   UNL     1      45.739  26.799  15.663  1.00  0.00           C  
+ENDMDL
+MODEL       94
+REMARK minimizedAffinity -3.55217671
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      62.235   5.635 -18.880  1.00  0.00           C  
+HETATM    2  O   UNL     1      59.862   6.180 -18.909  1.00  0.00           O  
+HETATM    3  C   UNL     1      61.018   6.531 -19.079  1.00  0.00           C  
+HETATM    4  O   UNL     1      61.339   7.797 -19.434  1.00  0.00           O  
+HETATM    5  H   UNL     1      62.236   8.036 -19.557  1.00  0.00           H  
+HETATM    6  C   UNL     1      63.344   6.147 -19.823  1.00  0.00           C  
+HETATM    7  C   UNL     1      64.739   6.165 -19.191  1.00  0.00           C  
+HETATM    8  C   UNL     1      65.815   5.774 -20.192  1.00  0.00           C  
+HETATM    9  C   UNL     1      62.673   5.634 -17.405  1.00  0.00           C  
+HETATM   10  C   UNL     1      62.430   4.301 -16.692  1.00  0.00           C  
+HETATM   11  C   UNL     1      61.071   4.303 -16.007  1.00  0.00           C  
+ENDMDL
+MODEL       95
+REMARK minimizedAffinity -3.54550433
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      49.936  34.917  15.475  1.00  0.00           C  
+HETATM    2  O   UNL     1      48.750  36.751  14.398  1.00  0.00           O  
+HETATM    3  C   UNL     1      49.647  35.924  14.369  1.00  0.00           C  
+HETATM    4  O   UNL     1      50.520  35.848  13.337  1.00  0.00           O  
+HETATM    5  H   UNL     1      51.198  35.202  13.344  1.00  0.00           H  
+HETATM    6  C   UNL     1      51.014  35.532  16.391  1.00  0.00           C  
+HETATM    7  C   UNL     1      52.005  34.512  16.958  1.00  0.00           C  
+HETATM    8  C   UNL     1      51.931  34.440  18.476  1.00  0.00           C  
+HETATM    9  C   UNL     1      48.647  34.566  16.239  1.00  0.00           C  
+HETATM   10  C   UNL     1      48.286  33.079  16.188  1.00  0.00           C  
+HETATM   11  C   UNL     1      49.057  32.307  17.250  1.00  0.00           C  
+ENDMDL
+MODEL       96
+REMARK minimizedAffinity -3.54451418
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      71.566  34.487  -2.462  1.00  0.00           C  
+HETATM    2  O   UNL     1      71.766  36.145  -4.236  1.00  0.00           O  
+HETATM    3  C   UNL     1      71.105  35.284  -3.677  1.00  0.00           C  
+HETATM    4  O   UNL     1      69.880  34.919  -4.121  1.00  0.00           O  
+HETATM    5  H   UNL     1      69.397  34.255  -3.670  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.430  33.317  -2.978  1.00  0.00           C  
+HETATM    7  C   UNL     1      73.904  33.676  -3.184  1.00  0.00           C  
+HETATM    8  C   UNL     1      74.318  33.534  -4.641  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.329  35.391  -1.478  1.00  0.00           C  
+HETATM   10  C   UNL     1      72.407  34.826  -0.057  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.672  35.941   0.945  1.00  0.00           C  
+ENDMDL
+MODEL       97
+REMARK minimizedAffinity -3.54260945
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.717  34.062  17.053  1.00  0.00           C  
+HETATM    2  O   UNL     1      74.281  34.570  15.256  1.00  0.00           O  
+HETATM    3  C   UNL     1      73.362  33.889  15.683  1.00  0.00           C  
+HETATM    4  O   UNL     1      72.841  32.862  14.972  1.00  0.00           O  
+HETATM    5  H   UNL     1      72.135  32.358  15.327  1.00  0.00           H  
+HETATM    6  C   UNL     1      71.201  34.238  16.831  1.00  0.00           C  
+HETATM    7  C   UNL     1      70.423  34.596  18.100  1.00  0.00           C  
+HETATM    8  C   UNL     1      69.440  33.501  18.485  1.00  0.00           C  
+HETATM    9  C   UNL     1      73.042  32.862  17.961  1.00  0.00           C  
+HETATM   10  C   UNL     1      73.785  33.245  19.243  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.860  33.138  20.447  1.00  0.00           C  
+ENDMDL
+MODEL       98
+REMARK minimizedAffinity -3.53389573
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      81.216  26.157   6.126  1.00  0.00           C  
+HETATM    2  O   UNL     1      79.157  26.742   7.289  1.00  0.00           O  
+HETATM    3  C   UNL     1      80.122  26.004   7.177  1.00  0.00           C  
+HETATM    4  O   UNL     1      80.296  24.925   7.976  1.00  0.00           O  
+HETATM    5  H   UNL     1      81.048  24.377   7.865  1.00  0.00           H  
+HETATM    6  C   UNL     1      81.512  24.752   5.560  1.00  0.00           C  
+HETATM    7  C   UNL     1      82.966  24.304   5.737  1.00  0.00           C  
+HETATM    8  C   UNL     1      83.825  25.408   6.335  1.00  0.00           C  
+HETATM    9  C   UNL     1      80.784  27.151   5.034  1.00  0.00           C  
+HETATM   10  C   UNL     1      81.805  28.261   4.773  1.00  0.00           C  
+HETATM   11  C   UNL     1      82.355  28.798   6.087  1.00  0.00           C  
+ENDMDL
+MODEL       99
+REMARK minimizedAffinity -3.52832627
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      41.012  39.372  -6.109  1.00  0.00           C  
+HETATM    2  O   UNL     1      43.085  39.786  -7.319  1.00  0.00           O  
+HETATM    3  C   UNL     1      42.359  40.037  -6.371  1.00  0.00           C  
+HETATM    4  O   UNL     1      42.673  40.984  -5.457  1.00  0.00           O  
+HETATM    5  H   UNL     1      42.094  41.153  -4.739  1.00  0.00           H  
+HETATM    6  C   UNL     1      40.250  39.328  -7.451  1.00  0.00           C  
+HETATM    7  C   UNL     1      38.892  40.034  -7.419  1.00  0.00           C  
+HETATM    8  C   UNL     1      38.668  40.762  -6.102  1.00  0.00           C  
+HETATM    9  C   UNL     1      41.206  37.973  -5.498  1.00  0.00           C  
+HETATM   10  C   UNL     1      40.949  36.830  -6.483  1.00  0.00           C  
+HETATM   11  C   UNL     1      41.309  35.492  -5.852  1.00  0.00           C  
+ENDMDL
+MODEL      100
+REMARK minimizedAffinity -3.52120757
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      46.275  37.130 -12.132  1.00  0.00           C  
+HETATM    2  O   UNL     1      45.493  36.397  -9.945  1.00  0.00           O  
+HETATM    3  C   UNL     1      46.202  36.208 -10.921  1.00  0.00           C  
+HETATM    4  O   UNL     1      46.983  35.109 -11.038  1.00  0.00           O  
+HETATM    5  H   UNL     1      47.516  34.993 -11.800  1.00  0.00           H  
+HETATM    6  C   UNL     1      47.470  36.669 -12.993  1.00  0.00           C  
+HETATM    7  C   UNL     1      48.339  37.816 -13.516  1.00  0.00           C  
+HETATM    8  C   UNL     1      49.573  37.300 -14.240  1.00  0.00           C  
+HETATM    9  C   UNL     1      44.948  37.110 -12.911  1.00  0.00           C  
+HETATM   10  C   UNL     1      44.132  38.397 -12.769  1.00  0.00           C  
+HETATM   11  C   UNL     1      44.981  39.609 -13.126  1.00  0.00           C  
+ENDMDL

@@ -1,0 +1,9 @@
+AMBIG_TBL=./COVID19N_Q9NR30_AIR.txt
+HADDOCK_DIR=/home/sdw95/bin/haddock2.4-2020-09
+N_COMP=2
+PDB_FILE1=/mnt/data-rs-wihy299nas/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Oriented_Structures/COVID19N_Q9NR30_A.pdb
+PDB_FILE2=/mnt/data-rs-wihy299nas/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Oriented_Structures/COVID19N_Q9NR30_B.pdb
+PROJECT_DIR=.
+PROT_SEGID_1=A
+PROT_SEGID_2=B
+RUN_NUMBER=1

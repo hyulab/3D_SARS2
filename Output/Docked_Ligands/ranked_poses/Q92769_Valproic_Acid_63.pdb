@@ -1,0 +1,15 @@
+MODEL       63
+REMARK minimizedAffinity -3.6961205
+COMPND    VALPROIC_ACID
+HETATM    1  C   UNL     1      72.544  33.995  -0.422  1.00  0.00           C  
+HETATM    2  O   UNL     1      74.011  33.575   1.476  1.00  0.00           O  
+HETATM    3  C   UNL     1      73.852  34.040   0.359  1.00  0.00           C  
+HETATM    4  O   UNL     1      74.863  34.624  -0.326  1.00  0.00           O  
+HETATM    5  H   UNL     1      74.709  34.972  -1.182  1.00  0.00           H  
+HETATM    6  C   UNL     1      72.397  35.343  -1.158  1.00  0.00           C  
+HETATM    7  C   UNL     1      71.638  35.249  -2.484  1.00  0.00           C  
+HETATM    8  C   UNL     1      71.859  36.482  -3.347  1.00  0.00           C  
+HETATM    9  C   UNL     1      72.528  32.795  -1.386  1.00  0.00           C  
+HETATM   10  C   UNL     1      71.488  31.731  -1.028  1.00  0.00           C  
+HETATM   11  C   UNL     1      72.055  30.754  -0.006  1.00  0.00           C  
+ENDMDL

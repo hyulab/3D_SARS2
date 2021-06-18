@@ -1,0 +1,28 @@
+MODEL       84
+REMARK minimizedAffinity -4.85051632
+COMPND    ENTACAPONE
+HETATM    1  C   UNL     1     -10.949   5.954   1.004  1.00  0.00           C  
+HETATM    2  C   UNL     1     -11.700   4.828   1.394  1.00  0.00           C  
+HETATM    3  C   UNL     1     -12.931   4.572   0.770  1.00  0.00           C  
+HETATM    4  C   UNL     1     -13.397   5.456  -0.217  1.00  0.00           C  
+HETATM    5  C   UNL     1     -12.609   6.535  -0.619  1.00  0.00           C  
+HETATM    6  O   UNL     1     -12.997   7.366  -1.634  1.00  0.00           O  
+HETATM    7  C   UNL     1     -11.383   6.794  -0.013  1.00  0.00           C  
+HETATM    8  O   UNL     1     -10.634   7.841  -0.473  1.00  0.00           O  
+HETATM    9  H   UNL     1     -13.816   7.225  -2.068  1.00  0.00           H  
+HETATM   10  H   UNL     1      -9.805   8.033  -0.080  1.00  0.00           H  
+HETATM   11  O   UNL     1      -8.718   6.476   0.965  1.00  0.00           O1-
+HETATM   12  N   UNL     1      -9.700   6.233   1.681  1.00  0.00           N1+
+HETATM   13  O   UNL     1      -9.683   6.137   2.916  1.00  0.00           O  
+HETATM   14  C   UNL     1     -13.741   3.378   1.092  1.00  0.00           C  
+HETATM   15  C   UNL     1     -13.646   2.179   0.463  1.00  0.00           C  
+HETATM   16  C   UNL     1     -14.628   1.105   0.879  1.00  0.00           C  
+HETATM   17  O   UNL     1     -15.818   1.439   0.955  1.00  0.00           O  
+HETATM   18  N   UNL     1     -14.276  -0.230   1.119  1.00  0.00           N  
+HETATM   19  C   UNL     1     -12.942  -0.843   1.220  1.00  0.00           C  
+HETATM   20  C   UNL     1     -12.592  -1.729   0.032  1.00  0.00           C  
+HETATM   21  C   UNL     1     -15.387  -1.169   1.358  1.00  0.00           C  
+HETATM   22  C   UNL     1     -15.313  -1.837   2.726  1.00  0.00           C  
+HETATM   23  C   UNL     1     -12.638   1.980  -0.515  1.00  0.00           C  
+HETATM   24  N   UNL     1     -11.803   1.868  -1.311  1.00  0.00           N  
+ENDMDL

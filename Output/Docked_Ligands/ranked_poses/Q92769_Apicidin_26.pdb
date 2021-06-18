@@ -1,0 +1,33 @@
+MODEL       26
+REMARK minimizedAffinity -7.10218525
+COMPND    APICIDIN
+HETATM    1  C   UNK A   1      74.715  36.747   4.974  1.00  0.00           C  
+HETATM    2  N   UNK A   1      74.124  38.100   4.926  1.00  0.00           N  
+HETATM   15  C   UNK A   2      75.149  36.989   0.384  1.00  0.00           C  
+HETATM   16  O   UNK A   2      76.362  36.750   0.378  1.00  0.00           O  
+HETATM   17  C   UNK A   2      74.213  36.065   1.207  1.00  0.00           C  
+HETATM   18  N   UNK A   2      74.452  36.593   2.563  1.00  0.00           N  
+HETATM   19  C   UNK A   1      74.143  35.966   3.750  1.00  0.00           C  
+HETATM   20  O   UNK A   1      73.515  34.918   3.816  1.00  0.00           O  
+HETATM   25  C   UNK A   1      74.523  36.085   6.335  1.00  0.00           C  
+HETATM   26  C   UNK A   1      75.228  36.795   7.502  1.00  0.00           C  
+HETATM   27  C   UNK A   1      74.699  36.438   8.898  1.00  0.00           C  
+HETATM   28  C   UNK A   1      75.259  35.113   9.430  1.00  0.00           C  
+HETATM   29  C   UNK A   1      74.475  34.565  10.624  1.00  0.00           C  
+HETATM   30  C   UNK A   1      75.333  34.415  11.864  1.00  0.00           C  
+HETATM   31  O   UNK A   1      76.314  33.677  11.902  1.00  0.00           O  
+HETATM   32  C   UNK A   1      75.152  36.735  12.845  1.00  0.00           C  
+HETATM   33  C   UNK A   1      74.903  35.254  13.060  1.00  0.00           C  
+HETATM   34  C   UNK A   2      72.728  36.006   0.851  1.00  0.00           C  
+HETATM   35  C   UNK A   2      72.371  35.170  -0.347  1.00  0.00           C  
+HETATM   36  C   UNK A   2      72.056  33.819  -0.367  1.00  0.00           C  
+HETATM   37  N   UNK A   2      71.654  33.483  -1.635  1.00  0.00           N  
+HETATM   38  C   UNK A   2      71.772  34.569  -2.471  1.00  0.00           C  
+HETATM   39  C   UNK A   2      71.529  34.690  -3.849  1.00  0.00           C  
+HETATM   40  C   UNK A   2      71.777  35.926  -4.452  1.00  0.00           C  
+HETATM   41  C   UNK A   2      72.220  37.009  -3.700  1.00  0.00           C  
+HETATM   42  C   UNK A   2      72.429  36.886  -2.322  1.00  0.00           C  
+HETATM   43  C   UNK A   2      72.225  35.642  -1.693  1.00  0.00           C  
+HETATM   44  O   UNK A   2      71.328  32.202  -2.122  1.00  0.00           O  
+HETATM   45  C   UNK A   2      70.815  31.352  -1.106  1.00  0.00           C  
+ENDMDL

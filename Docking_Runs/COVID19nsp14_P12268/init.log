@@ -1,0 +1,39 @@
+
+##############################################################################
+#                                                                            #
+# Starting HADDOCK2.4                                                        #
+#                                                                            #
+#         N-components version of HADDOCK (current maximum is 20)            #
+#                                                                            #
+#   Copyright 2003-2020 Alexandre Bonvin, Utrecht University.                #
+#   Originally adapted from Aria 1.2 from Nilges and Linge, EMBL.            #
+#   All rights reserved.                                                     #
+#   This code is part of the HADDOCK software and governed by its            #
+#   license. Please see the LICENSE file that should have been included      #
+#   as part of this package.                                                 #
+#                                                                            #
+##############################################################################
+    
+Starting HADDOCK on: 2021-06-17 18:24:23
+ 
+HADDOCK version:   2.4 - September 2020 release
+Python version: 2.7.5 (default, Oct 14 2020, 14:45:30) 
+[GCC 4.8.5 20150623 (Red Hat 4.8.5-44)]
+reading parameters from the file ./run.param
+  setting some variables:
+  N_COMP set to: 2
+  RUN_NUMBER set to: 1
+  HADDOCK_DIR set to: /home/sdw95/bin/haddock2.4-2020-09
+  PROT_SEGID_2 set to: B
+  PROT_SEGID_1 set to: A
+  PDB_FILE1 set to: /mnt/data-rs-wihy299nas/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Oriented_Structures/COVID19nsp14_P12268_A.pdb
+  AMBIG_TBL set to: ./COVID19nsp14_P12268_AIR.txt
+  PROJECT_DIR set to: .
+  PDB_FILE2 set to: /mnt/data-rs-wihy299nas/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Oriented_Structures/COVID19nsp14_P12268_B.pdb
+runDir= ./run1
+run1 already exists => HADDOCK stopped
+##############################################################################
+Finishing HADDOCK on:  2021-06-17 18:24:23
+Au revoir.
+Tot ziens.
+Bye bye.

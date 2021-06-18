@@ -1,0 +1,29 @@
+MODEL       93
+REMARK minimizedAffinity -5.8137579
+COMPND    MYCOPHENOLIC_ACID
+HETATM    1  C   UNL     1      19.862  35.130   2.834  1.00  0.00           C  
+HETATM    2  C   UNL     1      19.989  34.217   1.734  1.00  0.00           C  
+HETATM    3  C   UNL     1      19.682  32.860   1.990  1.00  0.00           C  
+HETATM    4  O   UNL     1      19.677  31.868   1.059  1.00  0.00           O  
+HETATM    5  C   UNL     1      19.352  32.456   3.280  1.00  0.00           C  
+HETATM    6  C   UNL     1      19.261  33.343   4.330  1.00  0.00           C  
+HETATM    7  C   UNL     1      19.501  34.697   4.138  1.00  0.00           C  
+HETATM    8  C   UNL     1      19.421  35.654   5.295  1.00  0.00           C  
+HETATM    9  C   UNL     1      18.882  32.603   5.552  1.00  0.00           C  
+HETATM   10  O   UNL     1      18.782  31.240   5.113  1.00  0.00           O  
+HETATM   11  C   UNL     1      19.035  31.109   3.772  1.00  0.00           C  
+HETATM   12  O   UNL     1      18.992  30.065   3.162  1.00  0.00           O  
+HETATM   13  H   UNL     1      19.890  32.062   0.167  1.00  0.00           H  
+HETATM   14  C   UNL     1      21.587  36.776   2.868  1.00  0.00           C  
+HETATM   15  O   UNL     1      20.201  36.464   2.752  1.00  0.00           O  
+HETATM   16  C   UNL     1      20.397  34.767   0.371  1.00  0.00           C  
+HETATM   17  C   UNL     1      19.387  35.485  -0.476  1.00  0.00           C  
+HETATM   18  C   UNL     1      19.598  36.187  -1.606  1.00  0.00           C  
+HETATM   19  C   UNL     1      20.945  36.378  -2.252  1.00  0.00           C  
+HETATM   20  C   UNL     1      18.433  36.811  -2.357  1.00  0.00           C  
+HETATM   21  C   UNL     1      18.113  36.121  -3.684  1.00  0.00           C  
+HETATM   22  C   UNL     1      17.068  35.047  -3.511  1.00  0.00           C  
+HETATM   23  O   UNL     1      17.226  33.991  -2.923  1.00  0.00           O  
+HETATM   24  O   UNL     1      15.890  35.386  -4.088  1.00  0.00           O  
+HETATM   25  H   UNL     1      15.805  36.206  -4.532  1.00  0.00           H  
+ENDMDL

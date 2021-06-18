@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+"""
+This code is a modified version of irescalc.py written to handle interfaces defined from
+protein-ligand docked conformations.
+
+The original irescalc.py was written by Michael Meyer.
+"""
+
 """ MJM edited version. Calculate for single structure, only chains specified. If only two chains present in structure, not need to specify.
 	irescalc.py: Calculates interface residues between specified chains in PDB files.
 	
@@ -8,7 +15,7 @@
 import argparse, os, sys
 from tempfile import mkdtemp
 from shutil import rmtree
-from mjm_tools import open_pdb, naccess
+from helper_functions import open_pdb, naccess
 
 ## I/O arguments at command line
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter, description='Calculates interface residues between two chains in a PDB-formatted file. If more than two chains are available in file, specify which chains to use.')

@@ -1,0 +1,25 @@
+MODEL       74
+REMARK minimizedAffinity -4.98511744
+COMPND    TMCB
+HETATM    1  C   UNL     1     -30.607   3.700   0.725  1.00  0.00           C  
+HETATM    2  N   UNL     1     -31.898   3.504   0.861  1.00  0.00           N  
+HETATM    3  C   UNL     1     -32.359   3.012  -0.339  1.00  0.00           C  
+HETATM    4  C   UNL     1     -33.676   2.660  -0.711  1.00  0.00           C  
+HETATM    5 BR   UNL     1     -35.033   2.788   0.621  1.00  0.00          Br  
+HETATM    6  C   UNL     1     -33.935   2.252  -2.035  1.00  0.00           C  
+HETATM    7 BR   UNL     1     -35.737   1.843  -2.562  1.00  0.00          Br  
+HETATM    8  C   UNL     1     -32.874   2.139  -2.955  1.00  0.00           C  
+HETATM    9 BR   UNL     1     -33.243   1.666  -4.790  1.00  0.00          Br  
+HETATM   10  C   UNL     1     -31.536   2.410  -2.567  1.00  0.00           C  
+HETATM   11 BR   UNL     1     -30.081   2.068  -3.753  1.00  0.00          Br  
+HETATM   12  C   UNL     1     -31.313   2.901  -1.258  1.00  0.00           C  
+HETATM   13  N   UNL     1     -30.212   3.372  -0.559  1.00  0.00           N  
+HETATM   14  C   UNL     1     -30.184   5.609   2.106  1.00  0.00           C  
+HETATM   15  N   UNL     1     -29.765   4.291   1.626  1.00  0.00           N  
+HETATM   16  C   UNL     1     -29.114   3.451   2.634  1.00  0.00           C  
+HETATM   17  C   UNL     1     -28.921   3.737  -1.115  1.00  0.00           C  
+HETATM   18  C   UNL     1     -27.883   2.671  -0.903  1.00  0.00           C  
+HETATM   19  O   UNL     1     -27.758   1.924   0.051  1.00  0.00           O  
+HETATM   20  O   UNL     1     -26.997   2.626  -1.922  1.00  0.00           O  
+HETATM   21  H   UNL     1     -27.096   3.202  -2.654  1.00  0.00           H  
+ENDMDL

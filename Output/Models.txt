@@ -1,0 +1,16 @@
+ID	Source	PDB_File	PDB_ID	PDB_Chain	ModBase_ID	Resi_Covered	Coverage
+COVID19E	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/COVID19E_7K3G_A.pdb	7K3G	A		[8-38]	0.413333333333
+COVID19N	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/COVID19N_6WZQ_A.pdb	6WZQ	A		[251-364]	0.272076372315
+COVID19nsp14	Modeller	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/COVID19nsp14.pdb				[1-526]	0.998102466793
+COVID19nsp15	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/COVID19nsp15_6XDH_A.pdb	6XDH	A		[1-345]	0.99710982659
+COVID19nsp5	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/COVID19nsp5_7JKV_A.pdb	7JKV	A		[1-301]	0.983660130719
+COVID19nsp7	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/COVID19nsp7_7BV2_C.pdb	7BV2	C		[2-64]	0.759036144578
+COVID19orf9b	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/COVID19orf9b_7KDT_B.pdb	7KDT	B		[39-76]	0.39175257732
+P19784	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/P19784_3E3B_X.pdb	3E3B	X		[1-334]	0.954285714286
+Q9NR30	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/Q9NR30_6L5N_A.pdb	6L5N	A		[188-304,306-343,345-346,348-389,391-563]	0.475095785441
+P12268	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/P12268_6UAJ_A.pdb	6UAJ	A		[10-420,437-514]	0.951361867704
+P62330	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/P62330_1E0S_A.pdb	1E0S	A		[2-174]	0.988571428571
+O14975	ModBase	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/O14975_427882966f3395d4e66623388ca45beb.pdb			427882966f3395d4e66623388ca45beb	[53-581]	0.853225806452
+Q92769	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/Q92769_4LXZ_C.pdb	4LXZ	C		[9-376]	0.754098360656
+P21964	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/P21964_4XUC_A.pdb	4XUC	A		[48-50,52-265]	0.80073800738
+P27448	PDB	/home/sdw95/3D_SARS2/git_hub/3D_SARS2/Output/Undocked_Structures/P27448_2QNJ_B.pdb	2QNJ	B		[48-204,208-367]	0.420982735724
