@@ -20,19 +20,19 @@ If as an end user you feel there are any elements of the project you are interes
 ### Dependencies and Conda Environment
 This project is run in python 2.7.15. I am fairly certain that the full list of non-standard packages used is as follows (but have not explicitly tested a minimal environment to be certain)...
 
-- biopython     version 1.68    build np112py27_0
-- bitarray      version 0.8.2   build py27h14c3975_0
-- matplotlib    version 2.2.2   build py27h0e671d2_0
-- networkx      version 2.0     build py27hfc23926_0
-- numpy         version 1.13.3  build py27ha266831_3
-- pandas        version 0.24.2  build py27he6710b0_0
-- pymol         version 2.1.1   build py27_2           channel schrodinger
-- requests      version 2.18.4  build py27hc5b0589_1
-- scikit-learn  version 0.20.3  build py27h22eb022_0
-- scipy         version 0.19.1  build np113py27_0
-- seaborn       version 0.8.1
-- setproctitle  version 1.1.10
-- tqdm          version 4.14.0  build py27_0
+- biopython -     (version: 1.68,    build: np112py27_0)
+- bitarray -      (version: 0.8.2,   build: py27h14c3975_0)
+- matplotlib -    (version: 2.2.2,   build: py27h0e671d2_0)
+- networkx -      (version: 2.0,     build: py27hfc23926_0)
+- numpy -         (version: 1.13.3,  build: py27ha266831_3)
+- pandas -        (version: 0.24.2,  build: py27he6710b0_0)
+- pymol -         (version: 2.1.1,   build: py27_2,           channel: schrodinger)
+- requests -      (version: 2.18.4,  build: py27hc5b0589_1)
+- scikit-learn -  (version: 0.20.3,  build: py27h22eb022_0)
+- scipy -         (version: 0.19.1,  build: np113py27_0)
+- seaborn -       (version: 0.8.1,)
+- setproctitle -  (version: 1.1.10,)
+- tqdm -          (version: 4.14.0,  build: py27_0)
 
 We have also included a yaml file describing the local conda environment that this project was carried out in. This environment is excessive (more packages than needed here), but should be sufficient to successfully run all of the scripts and notebooks contained here.
 
